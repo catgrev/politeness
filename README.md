@@ -32,12 +32,12 @@ Then: sudo python run.py
 4) Making requests
 
 Go to a browser, check for the EC2 public IP in the URL bar. 
-Something other than a 404 page should appear.
-Go to the RESTClient installed on Firefox.
-Use the following config:
-Method => POST
-URL => http://yourIP:5000/politeness
-Header => Content-Type = application/x-www-form-urlencoded
-Body => sentence=\"your sentence goes here\"
+Something other than a 404 page should appear.<br>
+Go to the RESTClient installed on Firefox.<br>
+Use the following config:<br>
+Method => POST<br>
+URL => http://yourIP:5000/politeness<br>
+Header => Content-Type = application/x-www-form-urlencoded<br>
+Body => sentence=\"your sentence goes here\"<br>
 
 The politeness scores should appear.
