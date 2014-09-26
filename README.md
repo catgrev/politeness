@@ -7,4 +7,36 @@ Setup instructions:
 -------------------
 The basic instructions to set up the Flask app have been adapted from this helpful tutorial [http://blog.garethdwyer.co.za/2013/07/getting-simple-flask-app-running-on.html].
 
-More detailed instructions will be added soon.
+With these modifications:
+Create an EC2 instance with at least 3GB of RAM
+
+To setup the webpage for the server, instead of "sudo nano sitename.com" do "sudo nano sitename.conf"
+Instead of "sudo a2dissite default" -> "sudo a2dissite 000-default.conf"
+Instead of "sudo a2ensite sitename.com" -> "sudo a2ensite sitename.conf"
+
+The git repo would be the politeness classifier repo.
+
+2) Setting up the core-nlp server
+
+Follow these instructions:
+https://bitbucket.org/torotoki/corenlp-python
+
+The core-nlp server should be launched at port 8080.
+
+3) Setting up the politeness classifier
+
+In the flask_politeness/run.py add host='0.0.0.0' inside of run()
+Then: sudo python run.py
+
+4) Making requests
+
+Go to a browser, check for the EC2 public IP in the URL bar. 
+Something other than a 404 page should appear.
+Go to the RESTClient installed on Firefox.
+Use the following config:
+Method => POST
+URL => http://yourIP:5000/politeness
+Header => Content-Type = application/x-www-form-urlencoded
+Body => sentence=\"your sentence goes here\"
+
+The politeness scores should appear.
