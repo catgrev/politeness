@@ -10,9 +10,10 @@ The basic instructions to set up the Flask app have been adapted from this helpf
 With these modifications:
 Create an EC2 instance with at least 3GB of RAM
 
-To setup the webpage for the server, instead of "sudo nano sitename.com" do "sudo nano sitename.conf"
-Instead of "sudo a2dissite default" -> "sudo a2dissite 000-default.conf"
-Instead of "sudo a2ensite sitename.com" -> "sudo a2ensite sitename.conf"
+To setup the webpage for the server: <br>
+Instead of "sudo nano sitename.com" do "sudo nano sitename.conf" <br>
+Instead of "sudo a2dissite default" -> "sudo a2dissite 000-default.conf"<br>
+Instead of "sudo a2ensite sitename.com" -> "sudo a2ensite sitename.conf"<br>
 
 The git repo would be the politeness classifier repo.
 
@@ -25,7 +26,7 @@ The core-nlp server should be launched at port 8080.
 
 3) Setting up the politeness classifier
 
-In the flask_politeness/run.py add host='0.0.0.0' inside of run()
+In the flask_politeness/run.py add host='0.0.0.0' inside of run()<br>
 Then: sudo python run.py
 
 4) Making requests
