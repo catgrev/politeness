@@ -41,3 +41,8 @@ Header => Content-Type = application/x-www-form-urlencoded<br>
 Body => sentence=\"your sentence goes here\"<br>
 
 The politeness scores should appear.
+
+Example request:<br>
+"method":"POST","url":"http://yourIP:5000/politeness",
+"body":"sentence=\"Please help me out here. Hi, woops, I really appreciate your unlikely honesty.\"",
+"overrideMimeType":false,"headers":[["Content-Type","application/x-www-form-urlencoded"]]
