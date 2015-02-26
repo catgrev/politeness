@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 politeness-classifier
 =====================
 
@@ -46,3 +47,7 @@ Example request:<br>
 "method":"POST","url":"http://yourIP:5000/politeness",
 "body":"sentence=\"Please help me out here. Hi, woops, I really appreciate your unlikely honesty.\"",
 "overrideMimeType":false,"headers":[["Content-Type","application/x-www-form-urlencoded"]]
+=======
+politeness
+==========
+>>>>>>> 0a7e546154dc7801929d6f01b21584dd6cb53366
