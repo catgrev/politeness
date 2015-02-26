@@ -1,0 +1,647 @@
+2015-02-25 16:55:29.417365	{'msg': 'Fine', 'txt': u"I don't usually post stuff like this, but this was funny.", 'score': 'Impolite', 'id': u'0', 'value': {'polite': 0.30816400017162066, 'impolite': 0.69183599982837929}}
+2015-02-25 16:55:34.680759	{'msg': 'Fine', 'txt': u'Brittney Cooper nails it again.\n"Taken together, addressing these matters demands not an equality framework but a justice framework, one that is infinitely more concerned from bottom to top with the way that workers are treated within systems, the conditions under which they work, and equitable compensation that they receive."', 'score': 'Neutral', 'id': u'1', 'value': {'polite': 0.42865804829224402, 'impolite': 0.57134195170775592}}
+2015-02-25 16:55:37.924900	{'msg': 'Fine', 'txt': u'"Annie said that George Harrison...maybe couldn\'t write a song, but then he wrote \'Here Comes the Sun,\' and she said it was one of the best songs on \'Abbey Road.\'" --Sean Penn, "I Am Sam"\nHappy Birthday, George Harrison, wherever you are. Peace and Love to you. heart emoticon', 'score': 'Impolite', 'id': u'2', 'value': {'polite': 0.23461780073494054, 'impolite': 0.76538219926505924}}
+2015-02-25 16:55:38.611985	{'msg': 'Fine', 'txt': u'Mark Cuban is pretty good at negotiating. Watch him in action.\nLearn more: http://soc.att.com/MobileShareValue215', 'score': 'Neutral', 'id': u'3', 'value': {'polite': 0.46105546324523544, 'impolite': 0.53894453675476472}}
+2015-02-25 16:55:39.144799	{'msg': 'Fine', 'txt': u'Iranians, liberals, and liberal Iranians - you MUST see this film!... http://youtu.be/IjZ80dLFFfE', 'score': 'Impolite', 'id': u'4', 'value': {'polite': 0.39740742994868145, 'impolite': 0.6025925700513185}}
+2015-02-25 16:55:39.652290	{'msg': 'Fine', 'txt': u'Good boy, Judge!!!  http://m.huffpost.com/us/entry/6739428\u2026', 'score': 'Impolite', 'id': u'5', 'value': {'polite': 0.31168000026909226, 'impolite': 0.68831999973090763}}
+2015-02-25 17:00:53.931253	{'msg': 'Fine', 'txt': u'Just watched one of my managers skateboard past me on the way in to work.', 'score': 'Neutral', 'id': u'6', 'value': {'polite': 0.46721720106786391, 'impolite': 0.5327827989321362}}
+2015-02-25 17:00:54.560623	{'msg': 'Fine', 'txt': u'Wednesday Wears It! Strut yo stuff!', 'score': 'Neutral', 'id': u'7', 'value': {'polite': 0.56160753203526348, 'impolite': 0.43839246796473658}}
+2015-02-25 17:00:57.492679	{'msg': 'Fine', 'txt': u"My face has decided it's done with winter...I've tried Kiehl's Intense Hydration, the lotion in my Clinique 3 step, and Aquaphor, but the area around my nose is still so dry. Any miracle product suggestions?", 'score': 'Neutral', 'id': u'8', 'value': {'polite': 0.56917180114741173, 'impolite': 0.43082819885258822}}
+2015-02-25 17:01:00.765295	{'msg': 'Fine', 'txt': u'Brittney Cooper nails it again.\n"Taken together, addressing these matters demands not an equality framework but a justice framework, one that is infinitely more concerned from bottom to top with the way that workers are treated within systems, the conditions under which they work, and equitable compensation that they receive."', 'score': 'Neutral', 'id': u'9', 'value': {'polite': 0.42865804829224402, 'impolite': 0.57134195170775592}}
+2015-02-25 17:01:03.022471	{'msg': 'Fine', 'txt': u'"Annie said that George Harrison...maybe couldn\'t write a song, but then he wrote \'Here Comes the Sun,\' and she said it was one of the best songs on \'Abbey Road.\'" --Sean Penn, "I Am Sam"\nHappy Birthday, George Harrison, wherever you are. Peace and Love to you. heart emoticon', 'score': 'Impolite', 'id': u'10', 'value': {'polite': 0.23461780073494054, 'impolite': 0.76538219926505924}}
+2015-02-25 17:16:50.183419	{'msg': 'Fine', 'score': 'Polite', 'id': u'4', 'value': {'polite': 0.71208663241998538, 'impolite': 0.28791336758001462}}
+2015-02-25 17:16:54.349952	{'msg': 'Fine', 'score': 'Neutral', 'id': u'3', 'value': {'polite': 0.42865804829224402, 'impolite': 0.57134195170775592}}
+2015-02-25 17:16:55.013930	{'msg': 'Fine', 'score': 'Neutral', 'id': u'10', 'value': {'polite': 0.25852900812026991, 'impolite': 0.74147099187972998}}
+2015-02-25 17:16:55.299011	{'msg': 'Fine', 'score': 'Neutral', 'id': u'15', 'value': {'polite': 0.43685795066912525, 'impolite': 0.56314204933087475}}
+2015-02-25 17:17:16.615517	{'msg': 'Fine', 'score': 'Neutral', 'id': u'19', 'value': {'polite': 0.22903848333038884, 'impolite': 0.77096151666961132}}
+2015-02-25 17:17:16.858710	{'msg': 'Fine', 'score': 'Neutral', 'id': u'22', 'value': {'polite': 0.35126515591602675, 'impolite': 0.64873484408397331}}
+2015-02-25 17:17:57.184938	{'msg': 'Fine', 'score': 'Neutral', 'id': u'26', 'value': {'polite': 0.61979680419083349, 'impolite': 0.38020319580916639}}
+2015-02-25 17:17:57.565192	{'msg': 'Fine', 'score': 'Polite', 'id': u'28', 'value': {'polite': 0.74523007342625569, 'impolite': 0.25476992657374442}}
+2015-02-25 17:17:57.917640	{'msg': 'Fine', 'score': 'Neutral', 'id': u'32', 'value': {'polite': 0.4039901236123406, 'impolite': 0.59600987638765945}}
+2015-02-25 17:17:58.355170	{'msg': 'Fine', 'score': 'Neutral', 'id': u'35', 'value': {'polite': 0.21441559464274737, 'impolite': 0.7855844053572526}}
+2015-02-25 17:18:18.431294	{'msg': 'Fine', 'score': 'Neutral', 'id': u'36', 'value': {'polite': 0.55229546596329915, 'impolite': 0.4477045340367008}}
+2015-02-25 17:18:18.664181	{'msg': 'Fine', 'score': 'Neutral', 'id': u'45', 'value': {'polite': 0.38874200166207251, 'impolite': 0.61125799833792749}}
+2015-02-25 17:18:18.910091	{'msg': 'Fine', 'score': 'Neutral', 'id': u'47', 'value': {'polite': 0.38874200166207251, 'impolite': 0.61125799833792749}}
+2015-02-25 17:21:02.483824	{'msg': 'Fine', 'score': 'Neutral', 'id': u'53', 'value': {'polite': 0.4082954889613461, 'impolite': 0.59170451103865396}}
+2015-02-25 17:21:02.881191	{'msg': 'Fine', 'score': 'Neutral', 'id': u'57', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}
+2015-02-25 17:21:06.477319	{'msg': 'Fine', 'score': 'Polite', 'id': u'59', 'value': {'polite': 0.78415775130272414, 'impolite': 0.21584224869727589}}
+2015-02-25 17:21:49.602462	{'msg': 'Fine', 'score': 'Neutral', 'id': u'60', 'value': {'polite': 0.38874200166207251, 'impolite': 0.61125799833792749}}
+2015-02-25 17:21:50.225471	{'msg': 'Fine', 'score': 'Neutral', 'id': u'62', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}
+2015-02-25 17:21:51.727951	{'msg': 'Fine', 'score': 'Polite', 'id': u'65', 'value': {'polite': 0.77772210983894952, 'impolite': 0.2222778901610504}}
+2015-02-25 17:21:51.964635	{'msg': 'Fine', 'score': 'Neutral', 'id': u'68', 'value': {'polite': 0.34520488920670839, 'impolite': 0.65479511079329167}}
+2015-02-25 17:34:12.922969	{'msg': 'Fine', 'score': 'Neutral', 'id': u'1', 'value': {'polite': 0.56656153449055002, 'impolite': 0.43343846550945014}}
+2015-02-25 17:35:39.785933	{'msg': 'Fine', 'score': 'Neutral', 'id': u'26', 'value': {'polite': 0.43227454614844824, 'impolite': 0.56772545385155171}}
+2015-02-25 17:35:40.022399	{'msg': 'Fine', 'score': 'Neutral', 'id': u'28', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}
+2015-02-25 17:35:42.726263	{'msg': 'Fine', 'score': 'Neutral', 'id': u'34', 'value': {'polite': 0.31360374708259819, 'impolite': 0.68639625291740181}}
+2015-02-25 17:35:43.109082	{'msg': 'Fine', 'score': 'Neutral', 'id': u'37', 'value': {'polite': 0.55229546596329915, 'impolite': 0.4477045340367008}}
+2015-02-25 17:38:51.713220	{'msg': 'Fine', 'score': 'Neutral', 'id': u'0', 'value': {'polite': 0.24761621294419464, 'impolite': 0.75238378705580566}}
+2015-02-25 17:38:52.088121	{'msg': 'Fine', 'score': 'Polite', 'id': u'3', 'value': {'polite': 0.77066745415543791, 'impolite': 0.22933254584456245}}
+2015-02-25 17:38:52.591265	{'msg': 'Fine', 'score': 'Impolite', 'id': u'5', 'value': {'polite': 0.084835243380661743, 'impolite': 0.91516475661933816}}
+2015-02-25 17:38:53.001066	{'msg': 'Fine', 'score': 'Neutral', 'id': u'7', 'value': {'polite': 0.21125196495364895, 'impolite': 0.78874803504635105}}
+2015-02-25 17:38:53.260709	{'msg': 'Fine', 'score': 'Neutral', 'id': u'9', 'value': {'polite': 0.21125196495364895, 'impolite': 0.78874803504635105}}
+2015-02-25 17:38:57.795001	{'msg': 'Fine', 'score': 'Neutral', 'id': u'11', 'value': {'polite': 0.27781379569227055, 'impolite': 0.72218620430772951}}
+2015-02-25 17:38:58.051756	{'msg': 'Fine', 'score': 'Neutral', 'id': u'15', 'value': {'polite': 0.26632808735174812, 'impolite': 0.73367191264825193}}
+2015-02-25 17:38:58.319683	{'msg': 'Fine', 'score': 'Neutral', 'id': u'17', 'value': {'polite': 0.62334096500795266, 'impolite': 0.37665903499204739}}
+2015-02-25 17:38:58.537715	{'msg': 'Fine', 'score': 'Neutral', 'id': u'20', 'value': {'polite': 0.29830299567193708, 'impolite': 0.70169700432806303}}
+2015-02-25 17:40:21.136442	{'msg': 'Fine', 'score': 'Neutral', 'id': u'39', 'value': {'polite': 0.43963548472284902, 'impolite': 0.56036451527715092}}
+2015-02-25 17:47:30.364233	{'msg': 'Fine', 'score': 'Polite', 'id': u'1', 'value': {'polite': 0.66854582904104076, 'impolite': 0.33145417095895913}}
+2015-02-25 17:47:30.658027	{'msg': 'Fine', 'score': 'Neutral', 'id': u'6', 'value': {'polite': 0.27226078383580432, 'impolite': 0.72773921616419579}}
+2015-02-25 17:47:31.424956	{'msg': 'Fine', 'score': 'Neutral', 'id': u'9', 'value': {'polite': 0.21967512047728102, 'impolite': 0.78032487952271901}}
+2015-02-25 17:58:18.250620	{'msg': 'Fine', 'score': 'Neutral', 'id': u'3', 'value': {'polite': 0.57644676069231793, 'impolite': 0.42355323930768196}}
+2015-02-25 18:03:02.770574	{'msg': 'Fine', 'score': 'Neutral', 'id': u'10', 'value': {'polite': 0.27226078383580432, 'impolite': 0.72773921616419579}}
+2015-02-25 18:03:06.053623	{'msg': 'Fine', 'score': 'Neutral', 'id': u'19', 'value': {'polite': 0.555840481313848, 'impolite': 0.44415951868615206}}
+2015-02-25 18:03:07.990333	{'msg': 'Fine', 'score': 'Polite', 'id': u'18', 'value': {'polite': 0.66854582904104076, 'impolite': 0.33145417095895913}}
+2015-02-25 18:03:08.200581	{'msg': 'Fine', 'score': 'Neutral', 'id': u'23', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}
+2015-02-25 18:03:08.484564	{'msg': 'Fine', 'score': 'Neutral', 'id': u'26', 'value': {'polite': 0.64750088448319898, 'impolite': 0.35249911551680119}}
+2015-02-25 18:03:08.858293	{'msg': 'Fine', 'score': 'Neutral', 'id': u'34', 'value': {'polite': 0.57644676069231793, 'impolite': 0.42355323930768196}}
+2015-02-25 18:04:34.761857	{'msg': 'Fine', 'score': 'Neutral', 'id': u'1', 'value': {'polite': 0.27226078383580432, 'impolite': 0.72773921616419579}}
+2015-02-25 18:14:55.631642	{'msg': 'Fine', 'txt': u'The time has come for you all to stop hashtagging.', 'score': 'Impolite', 'id': u'0', 'value': {'polite': 0.35347207102509987, 'impolite': 0.64652792897489997}}
+2015-02-25 18:14:56.128882	{'msg': 'Fine', 'txt': u'The snow has started in midtown!', 'score': 'Impolite', 'id': u'1', 'value': {'polite': 0.37643191496156575, 'impolite': 0.62356808503843419}}
+2015-02-25 18:15:35.171741	{'msg': 'Fine', 'txt': u'Did you earn an advanced degree only to work for near minimum wage? You deserve $15,000 per course. Sign this.', 'score': 'Neutral', 'id': u'3', 'value': {'polite': 0.5665248056755261, 'impolite': 0.4334751943244739}}
+2015-02-25 18:15:36.253969	{'msg': 'Fine', 'txt': u'There is NOBODY in the office today. That means that the inappropriate for work music has been BLARING. So good!', 'score': 'Polite', 'id': u'4', 'value': {'polite': 0.77066745415543791, 'impolite': 0.22933254584456245}}
+2015-02-25 18:15:38.191245	{'msg': 'Fine', 'txt': u"Ok- serious advice needed. Student A emailed me today and said she overheard Student B bragging about hiring someone to write a midterm paper for her. What do I do?? This is a new one for me..and I thought I'd seen/heard it all !!", 'score': 'Neutral', 'id': u'5', 'value': {'polite': 0.5, 'impolite': 0.5}}
+2015-02-25 18:17:36.719962	{'msg': 'Fine', 'txt': u'So... how do you get retribution when you\'ve experienced discrimination? I\'m not typically a vengeful person, but I\'m currently extraordinarily angry at LinkedIn. Facts of the situation:\n1) announced my pregnancy, was transferred out of my role way before I needed to be, into a "floater" role\n2) when I came back from mat leave, HR played hardball with me and told me I\'d need to find a role in 4-6 weeks otherwise the "floater role" was temporary and that I\'d need to leave\n3) W...\nSee More\n', 'score': 'Neutral', 'id': u'0', 'value': {'polite': 0.58046518364902733, 'impolite': 0.41953481635097278}}
+2015-02-25 18:17:37.459880	{'msg': 'Fine', 'txt': u'Did you earn an advanced degree only to work for near minimum wage? You deserve $15,000 per course. Sign this.', 'score': 'Neutral', 'id': u'1', 'value': {'polite': 0.5665248056755261, 'impolite': 0.4334751943244739}}
+2015-02-25 18:17:38.193163	{'msg': 'Fine', 'txt': u'The animated short film that won the Oscar!', 'score': 'Neutral', 'id': u'2', 'value': {'polite': 0.43191331269376421, 'impolite': 0.56808668730623579}}
+2015-02-25 18:17:39.009897	{'msg': 'Fine', 'txt': u'There is NOBODY in the office today. That means that the inappropriate for work music has been BLARING. So good!', 'score': 'Polite', 'id': u'3', 'value': {'polite': 0.77066745415543791, 'impolite': 0.22933254584456245}}
+2015-02-25 18:17:39.835620	{'msg': 'Fine', 'txt': u"Ok- serious advice needed. Student A emailed me today and said she overheard Student B bragging about hiring someone to write a midterm paper for her. What do I do?? This is a new one for me..and I thought I'd seen/heard it all !!", 'score': 'Neutral', 'id': u'4', 'value': {'polite': 0.5, 'impolite': 0.5}}
+2015-02-25 18:17:45.963976	{'msg': 'Fine', 'txt': u'The animated short film that won the Oscar!', 'score': 'Neutral', 'id': u'0', 'value': {'polite': 0.43191331269376421, 'impolite': 0.56808668730623579}}
+2015-02-25 18:18:08.022205	{'msg': 'Fine', 'txt': u'So... how do you get retribution when you\'ve experienced discrimination? I\'m not typically a vengeful person, but I\'m currently extraordinarily angry at LinkedIn. Facts of the situation:\n1) announced my pregnancy, was transferred out of my role way before I needed to be, into a "floater" role\n2) when I came back from mat leave, HR played hardball with me and told me I\'d need to find a role in 4-6 weeks otherwise the "floater role" was temporary and that I\'d need to leave\n3) W...\nSee More\n', 'score': 'Neutral', 'id': u'1', 'value': {'polite': 0.58046518364902733, 'impolite': 0.41953481635097278}}
+2015-02-25 18:18:08.553686	{'msg': 'Fine', 'txt': u'Did you earn an advanced degree only to work for near minimum wage? You deserve $15,000 per course. Sign this.', 'score': 'Neutral', 'id': u'2', 'value': {'polite': 0.5665248056755261, 'impolite': 0.4334751943244739}}
+2015-02-25 18:18:09.047975	{'msg': 'Fine', 'txt': u'There is NOBODY in the office today. That means that the inappropriate for work music has been BLARING. So good!', 'score': 'Polite', 'id': u'3', 'value': {'polite': 0.77066745415543791, 'impolite': 0.22933254584456245}}
+2015-02-25 18:18:09.846634	{'msg': 'Fine', 'txt': u"Ok- serious advice needed. Student A emailed me today and said she overheard Student B bragging about hiring someone to write a midterm paper for her. What do I do?? This is a new one for me..and I thought I'd seen/heard it all !!", 'score': 'Neutral', 'id': u'4', 'value': {'polite': 0.5, 'impolite': 0.5}}
+2015-02-25 18:19:41.327533	{'msg': 'Fine', 'score': 'Neutral', 'id': u'3', 'value': {'polite': 0.29794882348238666, 'impolite': 0.70205117651761295}}
+2015-02-25 18:19:41.611213	{'msg': 'Fine', 'score': 'Neutral', 'id': u'6', 'value': {'polite': 0.5, 'impolite': 0.5}}
+2015-02-25 18:19:45.152868	{'msg': 'Fine', 'score': 'Polite', 'id': u'7', 'value': {'polite': 0.78734760961989048, 'impolite': 0.21265239038010933}}
+2015-02-25 18:19:45.666231	{'msg': 'Fine', 'score': 'Polite', 'id': u'9', 'value': {'polite': 0.67594008170803421, 'impolite': 0.32405991829196595}}
+2015-02-25 18:19:46.187904	{'msg': 'Fine', 'score': 'Polite', 'id': u'12', 'value': {'polite': 0.70127429169428812, 'impolite': 0.29872570830571188}}
+2015-02-25 18:19:46.423283	{'msg': 'Fine', 'score': 'Neutral', 'id': u'15', 'value': {'polite': 0.34520488920670839, 'impolite': 0.65479511079329167}}
+2015-02-25 18:20:37.074316	{'msg': 'Fine', 'score': 'Neutral', 'id': u'16', 'value': {'polite': 0.45751659642244319, 'impolite': 0.54248340357755676}}
+2015-02-25 18:22:49.216342	{'msg': 'Fine', 'score': 'Neutral', 'id': u'19', 'value': {'polite': 0.64750088448319898, 'impolite': 0.35249911551680119}}
+2015-02-25 18:22:52.964634	{'msg': 'Fine', 'score': 'Neutral', 'id': u'21', 'value': {'polite': 0.43249352693625159, 'impolite': 0.56750647306374868}}
+2015-02-25 18:22:54.245590	{'msg': 'Fine', 'score': 'Neutral', 'id': u'25', 'value': {'polite': 0.29096284891155688, 'impolite': 0.70903715108844301}}
+2015-02-25 18:25:20.600517	{'msg': 'Fine', 'score': 'Neutral', 'id': u'36', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}
+2015-02-25 18:25:22.355497	{'msg': 'Fine', 'score': 'Neutral', 'id': u'35', 'value': {'polite': 0.31097986680788198, 'impolite': 0.68902013319211808}}
+2015-02-25 19:05:54.019986	{'msg': 'Fine', 'txt': u'The animated short film that won the Oscar!', 'score': 'Neutral', 'id': u'0', 'value': {'polite': 0.43191331269376421, 'impolite': 0.56808668730623579}}
+2015-02-25 19:05:54.481058	{'msg': 'Fine', 'txt': u'Let the snow begin!', 'score': 'Neutral', 'id': u'1', 'value': {'polite': 0.45751659642244319, 'impolite': 0.54248340357755676}}
+2015-02-25 19:06:22.176847	{'msg': 'Fine', 'txt': u'So... how do you get retribution when you\'ve experienced discrimination? I\'m not typically a vengeful person, but I\'m currently extraordinarily angry at LinkedIn. Facts of the situation:\n1) announced my pregnancy, was transferred out of my role way before I needed to be, into a "floater" role\n2) when I came back from mat leave, HR played hardball with me and told me I\'d need to find a role in 4-6 weeks otherwise the "floater role" was temporary and that I\'d need to leave\n3) W...\nSee More\n', 'score': 'Neutral', 'id': u'2', 'value': {'polite': 0.58046518364902733, 'impolite': 0.41953481635097278}}
+2015-02-25 19:06:22.739418	{'msg': 'Fine', 'txt': u"Haven't tried Plated yet? For a limited time we're giving new customers 4 FREE meals with your first box plus FREE shipping!", 'score': 'Neutral', 'id': u'3', 'value': {'polite': 0.44222179797048222, 'impolite': 0.55777820202951778}}
+2015-02-25 19:06:23.421894	{'msg': 'Fine', 'txt': u'There is NOBODY in the office today. That means that the inappropriate for work music has been BLARING. So good!', 'score': 'Polite', 'id': u'4', 'value': {'polite': 0.77066745415543791, 'impolite': 0.22933254584456245}}
+2015-02-25 19:14:52.148783	{'msg': 'Fine', 'txt': u'There is NOBODY in the office today. That means that the inappropriate for work music has been BLARING. So good!', 'score': 'Polite', 'id': u'5', 'value': {'polite': 0.77066745415543791, 'impolite': 0.22933254584456245}}
+2015-02-25 19:14:52.816657	{'msg': 'Fine', 'txt': u'The animated short film that won the Oscar!', 'score': 'Neutral', 'id': u'6', 'value': {'polite': 0.43191331269376421, 'impolite': 0.56808668730623579}}
+2015-02-25 19:14:53.244065	{'msg': 'Fine', 'txt': u'Let the snow begin!', 'score': 'Neutral', 'id': u'7', 'value': {'polite': 0.45751659642244319, 'impolite': 0.54248340357755676}}
+2015-02-25 19:15:32.844735	{'msg': 'Fine', 'txt': u"Haven't tried Plated yet? For a limited time we're giving new customers 4 FREE meals with your first box plus FREE shipping!", 'score': 'Neutral', 'id': u'9', 'value': {'polite': 0.44222179797048222, 'impolite': 0.55777820202951778}}
+2015-02-25 19:33:00.357777	{'msg': 'Fine', 'score': 'Neutral', 'id': u'38', 'value': {'polite': 0.45751659642244319, 'impolite': 0.54248340357755676}}
+2015-02-25 19:33:02.269274	{'msg': 'Fine', 'score': 'Impolite', 'id': u'41', 'value': {'polite': 0.18512312024427699, 'impolite': 0.8148768797557232}}
+2015-02-25 19:33:03.721089	{'msg': 'Fine', 'score': 'Neutral', 'id': u'44', 'value': {'polite': 0.30618062348418096, 'impolite': 0.69381937651581915}}
+2015-02-25 19:33:04.122051	{'msg': 'Fine', 'score': 'Neutral', 'id': u'46', 'value': {'polite': 0.46666911508585679, 'impolite': 0.53333088491414327}}
+2015-02-25 19:33:04.504365	{'msg': 'Fine', 'score': 'Neutral', 'id': u'49', 'value': {'polite': 0.2751950577644976, 'impolite': 0.7248049422355024}}
+2015-02-25 19:33:08.920851	{'msg': 'Fine', 'score': 'Neutral', 'id': u'53', 'value': {'polite': 0.31028811079131052, 'impolite': 0.68971188920868953}}
+2015-02-25 19:33:09.657599	{'msg': 'Fine', 'score': 'Neutral', 'id': u'55', 'value': {'polite': 0.40587911933088744, 'impolite': 0.59412088066911251}}
+2015-02-25 19:33:22.058833	{'msg': 'Fine', 'score': 'Neutral', 'id': u'57', 'value': {'polite': 0.61825214131746575, 'impolite': 0.38174785868253425}}
+2015-02-25 19:33:23.392036	{'msg': 'Fine', 'score': 'Neutral', 'id': u'61', 'value': {'polite': 0.57760780512395637, 'impolite': 0.42239219487604351}}
+2015-02-25 19:33:23.603932	{'msg': 'Fine', 'score': 'Neutral', 'id': u'67', 'value': {'polite': 0.4082954889613461, 'impolite': 0.59170451103865396}}
+2015-02-25 19:37:46.460253	{'msg': 'Fine', 'score': 'Neutral', 'id': u'73', 'value': {'polite': 0.45284918810710267, 'impolite': 0.54715081189289727}}
+2015-02-25 19:37:47.881963	{'msg': 'Fine', 'score': 'Neutral', 'id': u'76', 'value': {'polite': 0.30911268417577958, 'impolite': 0.69088731582422036}}
+2015-02-25 19:37:48.192215	{'msg': 'Fine', 'score': 'Neutral', 'id': u'80', 'value': {'polite': 0.33036357686023826, 'impolite': 0.66963642313976179}}
+2015-02-25 19:37:59.465818	{'msg': 'Fine', 'score': 'Neutral', 'id': u'82', 'value': {'polite': 0.37676731636120298, 'impolite': 0.62323268363879702}}
+2015-02-25 19:37:59.730977	{'msg': 'Fine', 'score': 'Neutral', 'id': u'84', 'value': {'polite': 0.38874200166207251, 'impolite': 0.61125799833792749}}
+2015-02-25 19:38:00.193163	{'msg': 'Fine', 'score': 'Neutral', 'id': u'86', 'value': {'polite': 0.40821085334680451, 'impolite': 0.5917891466531956}}
+2015-02-25 19:38:00.475094	{'msg': 'Fine', 'score': 'Neutral', 'id': u'89', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}
+2015-02-25 19:38:34.025657	{'msg': 'Fine', 'score': 'Neutral', 'id': u'90', 'value': {'polite': 0.44422295884211349, 'impolite': 0.55577704115788662}}
+2015-02-25 19:38:37.663759	{'msg': 'Fine', 'score': 'Neutral', 'id': u'95', 'value': {'polite': 0.29501635993871472, 'impolite': 0.70498364006128511}}
+2015-02-25 19:38:37.921006	{'msg': 'Fine', 'score': 'Neutral', 'id': u'99', 'value': {'polite': 0.24678660293032201, 'impolite': 0.75321339706967794}}
+2015-02-25 19:48:22.773884	{'msg': 'Fine', 'score': 'Neutral', 'id': u'1', 'value': {'polite': 0.45751659642244319, 'impolite': 0.54248340357755676}}
+2015-02-25 19:48:23.376799	{'msg': 'Fine', 'score': 'Neutral', 'id': u'4', 'value': {'polite': 0.29794882348238666, 'impolite': 0.70205117651761295}}
+2015-02-25 19:48:24.856934	{'msg': 'Fine', 'score': 'Neutral', 'id': u'6', 'value': {'polite': 0.31896603607641388, 'impolite': 0.68103396392358606}}
+2015-02-25 19:48:25.131110	{'msg': 'Fine', 'score': 'Neutral', 'id': u'9', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}
+2015-02-25 19:48:25.726456	{'msg': 'Fine', 'score': 'Neutral', 'id': u'11', 'value': {'polite': 0.46298158513903287, 'impolite': 0.53701841486096724}}
+2015-02-25 19:48:25.992874	{'msg': 'Fine', 'score': 'Neutral', 'id': u'13', 'value': {'polite': 0.35622679326149836, 'impolite': 0.6437732067385018}}
+2015-02-25 19:48:26.677660	{'msg': 'Fine', 'score': 'Neutral', 'id': u'16', 'value': {'polite': 0.41238148874464309, 'impolite': 0.5876185112553568}}
+2015-02-25 19:48:26.889963	{'msg': 'Fine', 'score': 'Neutral', 'id': u'18', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}
+2015-02-25 19:48:27.113751	{'msg': 'Fine', 'score': 'Neutral', 'id': u'20', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}
+2015-02-25 19:51:14.756212	{'msg': 'Fine', 'score': 'Neutral', 'id': u'21', 'value': {'polite': 0.44422295884211349, 'impolite': 0.55577704115788662}}
+2015-02-25 19:51:16.196044	{'msg': 'Fine', 'score': 'Neutral', 'id': u'27', 'value': {'polite': 0.28514160762226126, 'impolite': 0.71485839237773863}}
+2015-02-25 19:51:16.584810	{'msg': 'Fine', 'score': 'Neutral', 'id': u'29', 'value': {'polite': 0.26632808735174812, 'impolite': 0.73367191264825193}}
+2015-02-25 19:53:09.093599	{'msg': 'Fine', 'score': 'Neutral', 'id': u'32', 'value': {'polite': 0.37668684329928465, 'impolite': 0.62331315670071519}}
+2015-02-25 19:53:09.916466	{'msg': 'Fine', 'score': 'Neutral', 'id': u'36', 'value': {'polite': 0.24818749438534685, 'impolite': 0.75181250561465329}}
+2015-02-25 19:53:10.318144	{'msg': 'Fine', 'score': 'Neutral', 'id': u'40', 'value': {'polite': 0.44581476085152594, 'impolite': 0.55418523914847395}}
+2015-02-25 19:53:13.211103	{'msg': 'Fine', 'score': 'Neutral', 'id': u'41', 'value': {'polite': 0.26632808735174812, 'impolite': 0.73367191264825193}}
+2015-02-25 19:57:07.967131	{'msg': 'Fine', 'score': 'Neutral', 'id': u'51', 'value': {'polite': 0.44422295884211349, 'impolite': 0.55577704115788662}}
+2015-02-25 19:57:12.841232	{'msg': 'Fine', 'score': 'Neutral', 'id': u'53', 'value': {'polite': 0.29501635993871472, 'impolite': 0.70498364006128511}}
+2015-02-25 19:57:13.169516	{'msg': 'Fine', 'score': 'Neutral', 'id': u'56', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}
+2015-02-25 19:57:13.427617	{'msg': 'Fine', 'score': 'Neutral', 'id': u'58', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}
+2015-02-25 19:57:18.574892	{'msg': 'Fine', 'score': 'Neutral', 'id': u'66', 'value': {'polite': 0.31896603607641388, 'impolite': 0.68103396392358606}}
+2015-02-25 19:57:18.798295	{'msg': 'Fine', 'score': 'Neutral', 'id': u'69', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}
+2015-02-25 20:10:21.046977	{'msg': 'Fine', 'score': 'Neutral', 'id': u'1', 'value': {'polite': 0.34520488920670839, 'impolite': 0.65479511079329167}}
+2015-02-25 20:10:21.514716	{'msg': 'Fine', 'score': 'Neutral', 'id': u'2', 'value': {'polite': 0.45751659642244319, 'impolite': 0.54248340357755676}}
+2015-02-25 20:10:22.730365	{'msg': 'Fine', 'score': 'Neutral', 'id': u'5', 'value': {'polite': 0.30618062348418096, 'impolite': 0.69381937651581915}}
+2015-02-25 20:10:24.834692	{'msg': 'Fine', 'score': 'Polite', 'id': u'7', 'value': {'polite': 0.66530826716166303, 'impolite': 0.33469173283833692}}
+2015-02-25 20:10:25.075393	{'msg': 'Fine', 'score': 'Neutral', 'id': u'9', 'value': {'polite': 0.31507216502416763, 'impolite': 0.68492783497583243}}
+2015-02-25 20:10:25.982388	{'msg': 'Fine', 'score': 'Neutral', 'id': u'11', 'value': {'polite': 0.58801170454160367, 'impolite': 0.41198829545839638}}
+2015-02-25 20:10:26.673179	{'msg': 'Fine', 'score': 'Neutral', 'id': u'15', 'value': {'polite': 0.47116511145155043, 'impolite': 0.52883488854844962}}
+2015-02-25 20:10:27.009017	{'msg': 'Fine', 'score': 'Neutral', 'id': u'18', 'value': {'polite': 0.26289591805487739, 'impolite': 0.73710408194512234}}
+2015-02-25 20:10:27.257592	{'msg': 'Fine', 'score': 'Neutral', 'id': u'22', 'value': {'polite': 0.33108649061087986, 'impolite': 0.6689135093891202}}
+2015-02-25 20:11:01.917859	{'msg': 'Fine', 'score': 'Neutral', 'id': u'70', 'value': {'polite': 0.49450343910935152, 'impolite': 0.50549656089064854}}
+2015-02-25 20:11:03.005947	{'msg': 'Fine', 'score': 'Neutral', 'id': u'72', 'value': {'polite': 0.35098695864722868, 'impolite': 0.64901304135277127}}
+2015-02-25 20:11:03.240684	{'msg': 'Fine', 'score': 'Neutral', 'id': u'74', 'value': {'polite': 0.27378604059746359, 'impolite': 0.72621395940253641}}
+2015-02-25 20:11:03.459772	{'msg': 'Fine', 'score': 'Neutral', 'id': u'77', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}
+2015-02-25 20:11:03.679342	{'msg': 'Fine', 'score': 'Neutral', 'id': u'78', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}
+2015-02-25 20:11:18.672554	{'msg': 'Fine', 'score': 'Neutral', 'id': u'25', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}
+2015-02-25 20:11:18.966296	{'msg': 'Fine', 'score': 'Neutral', 'id': u'28', 'value': {'polite': 0.42297264671150858, 'impolite': 0.57702735328849131}}
+2015-02-25 20:11:19.360298	{'msg': 'Fine', 'score': 'Neutral', 'id': u'31', 'value': {'polite': 0.25852900812026991, 'impolite': 0.74147099187972998}}
+2015-02-25 20:13:55.447042	{'msg': 'Fine', 'txt': u'Hello everyone\nHope to see you tomorrow\nThe address is \nLe bifor\n60 rue jean jacques rousseau ...\nSee More\n', 'score': 'Impolite', 'id': u'0', 'value': {'polite': 0.20739394720734164, 'impolite': 0.79260605279265839}}	6576
+2015-02-25 20:13:55.920416	{'msg': 'Fine', 'txt': u'Woohoo Emmett Nicholas and team!', 'score': 'Impolite', 'id': u'1', 'value': {'polite': 0.37917071273335085, 'impolite': 0.6208292872666491}}	6576
+2015-02-25 20:13:58.073281	{'msg': 'Fine', 'txt': u"Ashok Goel's and my OMS class, Knowledge-Based AI: Cognitive Systems, is now available for free access at Udacity! Visit the link below for access to the course materials and exercises. If you're interested in taking the course with assessment, visit Georgia Tech Professional Education at https://pe.gatech.edu/online-computer-science -- or, apply to the Online Masters in Computer Science at www.omscs.gatech.edu", 'score': 'Neutral', 'id': u'2', 'value': {'polite': 0.48097387003054642, 'impolite': 0.51902612996945363}}	6576
+2015-02-25 20:13:58.410280	{'msg': 'Fine', 'txt': u'...', 'score': 'Impolite', 'id': u'3', 'value': {'polite': 0.24678660293032201, 'impolite': 0.75321339706967794}}	6576
+2015-02-25 20:14:00.520387	{'msg': 'Fine', 'txt': u"Folks in the Boston area or within a reasonable drive--looking for a pet-sitter for spring break? I have no plans and am desperate for some animal contact. I'm free March 18-29! Just shoot me a message if you need somebody.", 'score': 'Polite', 'id': u'4', 'value': {'polite': 0.86119360644081056, 'impolite': 0.13880639355918967}}	6576
+2015-02-25 20:14:01.991416	{'msg': 'Fine', 'txt': u"Following on Becky Morin's post, who else has a dog on poop strike, and who is the leader so that we can try to negotiate?", 'score': 'Neutral', 'id': u'5', 'value': {'polite': 0.60983990453549053, 'impolite': 0.39016009546450947}}	6576
+2015-02-25 20:14:02.514461	{'msg': 'Fine', 'txt': u'Out-elaineing myself. There are 5 crystals in this photo. \u202a#\u200eusedarkroom\u202c \u202a#\u200edarkroomapp\u202c', 'score': 'Impolite', 'id': u'6', 'value': {'polite': 0.29612517223723994, 'impolite': 0.70387482776275978}}	6576
+2015-02-25 20:14:59.433334	{'msg': 'Fine', 'score': 'Neutral', 'id': u'83', 'value': {'polite': 0.61565994935548463, 'impolite': 0.38434005064451532}}	
+2015-02-25 20:14:59.804502	{'msg': 'Fine', 'score': 'Impolite', 'id': u'87', 'value': {'polite': 0.18512312024427699, 'impolite': 0.8148768797557232}}	
+2015-02-25 21:12:04.797570	{'msg': 'Fine', 'score': 'Neutral', 'id': u'1', 'value': {'polite': 0.25355589666252587, 'impolite': 0.74644410333747413}}	
+2015-02-25 21:12:06.372001	{'msg': 'Fine', 'score': 'Neutral', 'id': u'3', 'value': {'polite': 0.53264790815133711, 'impolite': 0.46735209184866283}}	
+2015-02-25 21:12:08.698399	{'msg': 'Fine', 'score': 'Neutral', 'id': u'6', 'value': {'polite': 0.42113392030024244, 'impolite': 0.57886607969975767}}	
+2015-02-25 21:12:09.202202	{'msg': 'Fine', 'score': 'Neutral', 'id': u'7', 'value': {'polite': 0.27218424521992207, 'impolite': 0.72781575478007776}}	
+2015-02-25 21:12:09.938223	{'msg': 'Fine', 'score': 'Neutral', 'id': u'11', 'value': {'polite': 0.34577696504561534, 'impolite': 0.65422303495438461}}	
+2015-02-25 21:12:10.834409	{'msg': 'Fine', 'score': 'Neutral', 'id': u'15', 'value': {'polite': 0.30618062348418096, 'impolite': 0.69381937651581915}}	
+2015-02-25 21:12:17.567312	{'msg': 'Fine', 'score': 'Neutral', 'id': u'16', 'value': {'polite': 0.26289591805487739, 'impolite': 0.73710408194512234}}	
+2015-02-25 21:12:17.836433	{'msg': 'Fine', 'score': 'Neutral', 'id': u'18', 'value': {'polite': 0.46527711585125131, 'impolite': 0.5347228841487488}}	
+2015-02-25 21:12:18.051099	{'msg': 'Fine', 'score': 'Neutral', 'id': u'20', 'value': {'polite': 0.26632808735174812, 'impolite': 0.73367191264825193}}	
+2015-02-25 21:12:18.417627	{'msg': 'Fine', 'score': 'Neutral', 'id': u'23', 'value': {'polite': 0.30433059563210468, 'impolite': 0.69566940436789526}}	
+2015-02-25 21:19:05.428102	{'msg': 'Fine', 'score': 'Neutral', 'id': u'27', 'value': {'polite': 0.43963548472284902, 'impolite': 0.56036451527715092}}	
+2015-02-25 21:19:06.177219	{'msg': 'Fine', 'score': 'Neutral', 'id': u'29', 'value': {'polite': 0.36413937960207649, 'impolite': 0.63586062039792368}}	
+2015-02-25 21:19:06.944393	{'msg': 'Fine', 'score': 'Neutral', 'id': u'31', 'value': {'polite': 0.35139909091253918, 'impolite': 0.64860090908746071}}	
+2015-02-25 21:19:09.876470	{'msg': 'Fine', 'score': 'Polite', 'id': u'34', 'value': {'polite': 0.82842574498539845, 'impolite': 0.17157425501460177}}	
+2015-02-25 21:19:42.801820	{'msg': 'Fine', 'score': 'Neutral', 'id': u'41', 'value': {'polite': 0.49176164952404255, 'impolite': 0.50823835047595756}}	
+2015-02-25 21:19:43.052431	{'msg': 'Fine', 'score': 'Neutral', 'id': u'44', 'value': {'polite': 0.40995126636140033, 'impolite': 0.59004873363859955}}	
+2015-02-25 21:19:43.429940	{'msg': 'Fine', 'score': 'Neutral', 'id': u'48', 'value': {'polite': 0.24678660293032201, 'impolite': 0.75321339706967794}}	
+2015-02-25 21:40:34.942492	{'msg': 'Fine', 'score': 'Neutral', 'id': u'2', 'value': {'polite': 0.64559240028411946, 'impolite': 0.35440759971588065}}	
+2015-02-25 21:40:38.451783	{'msg': 'Fine', 'score': 'Neutral', 'id': u'3', 'value': {'polite': 0.36483663039731756, 'impolite': 0.6351633696026826}}	
+2015-02-25 21:40:39.559299	{'msg': 'Fine', 'score': 'Neutral', 'id': u'5', 'value': {'polite': 0.5, 'impolite': 0.5}}	
+2015-02-25 21:40:40.635230	{'msg': 'Fine', 'score': 'Impolite', 'id': u'8', 'value': {'polite': 0.1534818493181328, 'impolite': 0.84651815068186731}}	
+2015-02-25 21:40:42.227818	{'msg': 'Fine', 'score': 'Neutral', 'id': u'11', 'value': {'polite': 0.53608376248404255, 'impolite': 0.46391623751595729}}	
+2015-02-25 21:40:42.502468	{'msg': 'Fine', 'score': 'Neutral', 'id': u'16', 'value': {'polite': 0.56066663028250352, 'impolite': 0.43933336971749642}}	
+2015-02-25 21:40:43.217910	{'msg': 'Fine', 'score': 'Neutral', 'id': u'18', 'value': {'polite': 0.46825317349539192, 'impolite': 0.53174682650460792}}	
+2015-02-25 21:40:49.596344	{'msg': 'Fine', 'score': 'Polite', 'id': u'21', 'value': {'polite': 0.81843435484857319, 'impolite': 0.18156564515142659}}	
+2015-02-25 21:40:50.686085	{'msg': 'Fine', 'score': 'Neutral', 'id': u'24', 'value': {'polite': 0.2336426797626617, 'impolite': 0.76635732023733805}}	
+2015-02-25 21:40:51.505236	{'msg': 'Fine', 'score': 'Neutral', 'id': u'27', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-25 21:41:16.000184	{'msg': 'Fine', 'score': 'Neutral', 'id': u'28', 'value': {'polite': 0.40995126636140033, 'impolite': 0.59004873363859955}}	
+2015-02-25 21:41:16.593419	{'msg': 'Fine', 'score': 'Neutral', 'id': u'30', 'value': {'polite': 0.60071313521539482, 'impolite': 0.39928686478460518}}	
+2015-02-25 21:41:16.834352	{'msg': 'Fine', 'score': 'Neutral', 'id': u'36', 'value': {'polite': 0.37204872687877882, 'impolite': 0.62795127312122123}}	
+2015-02-25 22:11:04.971424	{'msg': 'Fine', 'score': 'Neutral', 'id': u'39', 'value': {'polite': 0.28934245171254364, 'impolite': 0.71065754828745642}}	
+2015-02-25 22:11:07.557256	{'msg': 'Fine', 'score': 'Neutral', 'id': u'41', 'value': {'polite': 0.42113392030024244, 'impolite': 0.57886607969975767}}	
+2015-02-25 22:11:08.559775	{'msg': 'Fine', 'score': 'Neutral', 'id': u'44', 'value': {'polite': 0.5970242023139426, 'impolite': 0.40297579768605746}}	
+2015-02-25 22:11:12.375047	{'msg': 'Fine', 'score': 'Polite', 'id': u'45', 'value': {'polite': 0.66874541382823294, 'impolite': 0.33125458617176695}}	
+2015-02-25 22:11:12.641225	{'msg': 'Fine', 'score': 'Neutral', 'id': u'47', 'value': {'polite': 0.31900882536201841, 'impolite': 0.68099117463798142}}	
+2015-02-25 22:11:13.286915	{'msg': 'Fine', 'score': 'Neutral', 'id': u'51', 'value': {'polite': 0.37960152031920558, 'impolite': 0.62039847968079442}}	
+2015-02-25 22:11:14.020520	{'msg': 'Fine', 'score': 'Neutral', 'id': u'53', 'value': {'polite': 0.4911000952104585, 'impolite': 0.50889990478954139}}	
+2015-02-25 22:11:15.101484	{'msg': 'Fine', 'score': 'Neutral', 'id': u'55', 'value': {'polite': 0.2504557341802286, 'impolite': 0.74954426581977174}}	
+2015-02-25 22:11:15.715909	{'msg': 'Fine', 'score': 'Neutral', 'id': u'58', 'value': {'polite': 0.599745068096736, 'impolite': 0.40025493190326394}}	
+2015-02-25 22:11:15.958841	{'msg': 'Fine', 'score': 'Neutral', 'id': u'60', 'value': {'polite': 0.32984208765344475, 'impolite': 0.67015791234655531}}	
+2015-02-25 22:11:36.120431	{'msg': 'Fine', 'score': 'Neutral', 'id': u'63', 'value': {'polite': 0.31097986680788198, 'impolite': 0.68902013319211808}}	
+2015-02-25 22:11:36.493544	{'msg': 'Fine', 'score': 'Neutral', 'id': u'67', 'value': {'polite': 0.5, 'impolite': 0.5}}	
+2015-02-25 22:11:36.955462	{'msg': 'Fine', 'score': 'Neutral', 'id': u'65', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-25 22:11:37.185770	{'msg': 'Fine', 'score': 'Neutral', 'id': u'70', 'value': {'polite': 0.36483663039731756, 'impolite': 0.6351633696026826}}	
+2015-02-25 22:11:49.335954	{'msg': 'Fine', 'score': 'Neutral', 'id': u'77', 'value': {'polite': 0.47116511145155043, 'impolite': 0.52883488854844962}}	
+2015-02-25 22:11:50.899368	{'msg': 'Fine', 'score': 'Neutral', 'id': u'78', 'value': {'polite': 0.53608376248404255, 'impolite': 0.46391623751595729}}	
+2015-02-25 22:11:51.189397	{'msg': 'Fine', 'score': 'Neutral', 'id': u'83', 'value': {'polite': 0.56066663028250352, 'impolite': 0.43933336971749642}}	
+2015-02-25 22:15:31.890629	{'msg': 'Fine', 'txt': u'http://blog.launchacademy.com/shipping-up-to-boston-coding\u2026/\nLily Bee Andy Hughes Shana Hausman If any of you are interested smile emoticon', 'score': 'Impolite', 'id': u'7', 'value': {'polite': 0.34271110733144183, 'impolite': 0.65728889266855806}}	6576
+2015-02-25 22:15:33.220454	{'msg': 'Fine', 'txt': u"Holy Moly (don't want to derail other threads). Why are Tieks so expensive?? Am I missing something? Is it like walking on marshmallows?", 'score': 'Impolite', 'id': u'8', 'value': {'polite': 0.31629017296021295, 'impolite': 0.68370982703978733}}	6576
+2015-02-25 22:15:34.412632	{'msg': 'Fine', 'txt': u'A la canebi\xe8re, avec une bi\xe8re. Dure la conf\xe9rence wink emoticon', 'score': 'Neutral', 'id': u'9', 'value': {'polite': 0.42810532069897067, 'impolite': 0.57189467930102955}}	6576
+2015-02-25 22:15:35.110101	{'msg': 'Fine', 'txt': u'Since Snowpocalypse 2015 is apparently very underwhelming, I move it be renamed Snowfracas 2015.', 'score': 'Polite', 'id': u'10', 'value': {'polite': 0.65743702707010865, 'impolite': 0.34256297292989124}}	6576
+2015-02-25 22:15:35.787791	{'msg': 'Fine', 'txt': u'http://waitbutwhy.com/\u2026/artificial-intelligence-revolution-\u2026', 'score': 'Impolite', 'id': u'11', 'value': {'polite': 0.21180189509850589, 'impolite': 0.78819810490149378}}	6576
+2015-02-25 22:15:36.925267	{'msg': 'Fine', 'txt': u'40% off sale at www.purlsoho.com. I want to buy all the soft alpaca yarns....', 'score': 'Neutral', 'id': u'12', 'value': {'polite': 0.41219844123372157, 'impolite': 0.58780155876627849}}	6576
+2015-02-25 22:15:38.425335	{'msg': 'Fine', 'txt': u'"Donna"/Retta wore a plaid Bobeau in last night\'s Parks and Rec series finale. Which confirms what I\'ve long suspected: Donna is one of us. (And Retta will be performing on campus tomorrow! Coincidence?? I don\'t think so!)', 'score': 'Impolite', 'id': u'13', 'value': {'polite': 0.12523497104988127, 'impolite': 0.87476502895011876}}	6576
+2015-02-25 22:15:40.811853	{'msg': 'Fine', 'txt': u"I'm a bit worried about my cat, Bunny. A few weeks ago he had mushy poos bordering on diarrhea and I took him to the vet. No temp, didn't have any bugs that they could find. They gave him meds to stop the diarrhea and it went away. But now it's back. What could be happening and is there something homeopathic I can do? I don't really have the funds for another $200 vet bill.", 'score': 'Neutral', 'id': u'14', 'value': {'polite': 0.56538450316760103, 'impolite': 0.43461549683239908}}	6576
+2015-02-25 22:27:29.371378	{'msg': 'Fine', 'score': 'Polite', 'id': u'0', 'value': {'polite': 0.7882835721705902, 'impolite': 0.21171642782941}}	
+2015-02-25 22:27:30.339555	{'msg': 'Fine', 'score': 'Neutral', 'id': u'3', 'value': {'polite': 0.55449995424755394, 'impolite': 0.44550004575244617}}	
+2015-02-25 22:27:31.491023	{'msg': 'Fine', 'score': 'Neutral', 'id': u'8', 'value': {'polite': 0.26289591805487739, 'impolite': 0.73710408194512234}}	
+2015-02-25 22:27:32.051765	{'msg': 'Fine', 'score': 'Neutral', 'id': u'11', 'value': {'polite': 0.53677997178829662, 'impolite': 0.46322002821170344}}	
+2015-02-25 23:16:42.191342	{'msg': 'Fine', 'score': 'Neutral', 'id': u'0', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-25 23:16:42.867349	{'msg': 'Fine', 'score': 'Neutral', 'id': u'3', 'value': {'polite': 0.24678660293032201, 'impolite': 0.75321339706967794}}	
+2015-02-25 23:16:43.437153	{'msg': 'Fine', 'score': 'Neutral', 'id': u'5', 'value': {'polite': 0.39193325955230168, 'impolite': 0.60806674044769826}}	
+2015-02-25 23:16:47.870618	{'msg': 'Fine', 'score': 'Neutral', 'id': u'12', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-25 23:16:48.679944	{'msg': 'Fine', 'score': 'Neutral', 'id': u'15', 'value': {'polite': 0.28118448457415302, 'impolite': 0.71881551542584676}}	
+2015-02-25 23:17:03.132391	{'msg': 'Fine', 'score': 'Neutral', 'id': u'21', 'value': {'polite': 0.43273453393428141, 'impolite': 0.56726546606571859}}	
+2015-02-25 23:17:03.570600	{'msg': 'Fine', 'score': 'Neutral', 'id': u'18', 'value': {'polite': 0.45364930991063818, 'impolite': 0.54635069008936177}}	
+2015-02-25 23:17:03.929720	{'msg': 'Fine', 'score': 'Neutral', 'id': u'23', 'value': {'polite': 0.40821085334680451, 'impolite': 0.5917891466531956}}	
+2015-02-25 23:17:26.931260	{'msg': 'Fine', 'score': 'Neutral', 'id': u'28', 'value': {'polite': 0.48353566709379592, 'impolite': 0.51646433290620408}}	
+2015-02-25 23:17:27.245453	{'msg': 'Fine', 'score': 'Neutral', 'id': u'33', 'value': {'polite': 0.50988028143838782, 'impolite': 0.49011971856161207}}	
+2015-02-25 23:17:27.557658	{'msg': 'Fine', 'score': 'Neutral', 'id': u'35', 'value': {'polite': 0.23228041497156893, 'impolite': 0.76771958502843085}}	
+2015-02-25 23:17:28.038156	{'msg': 'Fine', 'score': 'Neutral', 'id': u'38', 'value': {'polite': 0.41304057860105625, 'impolite': 0.58695942139894397}}	
+2015-02-25 23:17:40.137021	{'msg': 'Fine', 'score': 'Neutral', 'id': u'41', 'value': {'polite': 0.37668684329928465, 'impolite': 0.62331315670071519}}	
+2015-02-25 23:17:40.590394	{'msg': 'Fine', 'score': 'Neutral', 'id': u'44', 'value': {'polite': 0.3207292967245145, 'impolite': 0.67927070327548555}}	
+2015-02-25 23:17:41.094207	{'msg': 'Fine', 'score': 'Neutral', 'id': u'46', 'value': {'polite': 0.48928653464545518, 'impolite': 0.51071346535454509}}	
+2015-02-25 23:17:42.196153	{'msg': 'Fine', 'score': 'Neutral', 'id': u'49', 'value': {'polite': 0.24840331327544338, 'impolite': 0.75159668672455637}}	
+2015-02-25 23:17:49.782775	{'msg': 'Fine', 'score': 'Neutral', 'id': u'51', 'value': {'polite': 0.51310345422460013, 'impolite': 0.48689654577539976}}	
+2015-02-25 23:17:50.761374	{'msg': 'Fine', 'score': 'Neutral', 'id': u'55', 'value': {'polite': 0.34406942825330133, 'impolite': 0.65593057174669867}}	
+2015-02-25 23:17:51.063661	{'msg': 'Fine', 'score': 'Neutral', 'id': u'58', 'value': {'polite': 0.28339599192209775, 'impolite': 0.71660400807790225}}	
+2015-02-25 23:25:47.957588	{'msg': 'Fine', 'score': 'Neutral', 'id': u'0', 'value': {'polite': 0.2504557341802286, 'impolite': 0.74954426581977174}}	
+2015-02-25 23:25:52.288962	{'msg': 'Fine', 'score': 'Polite', 'id': u'3', 'value': {'polite': 0.69949772629721652, 'impolite': 0.30050227370278343}}	
+2015-02-25 23:25:52.550459	{'msg': 'Fine', 'score': 'Neutral', 'id': u'6', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-25 23:25:52.761046	{'msg': 'Fine', 'score': 'Neutral', 'id': u'9', 'value': {'polite': 0.24678660293032201, 'impolite': 0.75321339706967794}}	
+2015-02-25 23:31:56.044616	{'msg': 'Fine', 'score': 'Neutral', 'id': u'20', 'value': {'polite': 0.49176164952404255, 'impolite': 0.50823835047595756}}	
+2015-02-25 23:31:56.509590	{'msg': 'Fine', 'score': 'Neutral', 'id': u'24', 'value': {'polite': 0.45364930991063818, 'impolite': 0.54635069008936177}}	
+2015-02-25 23:31:56.814205	{'msg': 'Fine', 'score': 'Neutral', 'id': u'25', 'value': {'polite': 0.24732799383249843, 'impolite': 0.75267200616750163}}	
+2015-02-25 23:31:58.728091	{'msg': 'Fine', 'score': 'Neutral', 'id': u'27', 'value': {'polite': 0.43273453393428141, 'impolite': 0.56726546606571859}}	
+2015-02-25 23:34:02.995583	{'msg': 'Fine', 'score': 'Neutral', 'id': u'2', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-25 23:35:21.444980	{'msg': 'Fine', 'score': 'Neutral', 'id': u'22', 'value': {'polite': 0.52629911837390275, 'impolite': 0.47370088162609736}}	
+2015-02-25 23:35:21.729699	{'msg': 'Fine', 'score': 'Neutral', 'id': u'23', 'value': {'polite': 0.34707650995974415, 'impolite': 0.65292349004025596}}	
+2015-02-25 23:35:22.840663	{'msg': 'Fine', 'score': 'Neutral', 'id': u'26', 'value': {'polite': 0.49176164952404255, 'impolite': 0.50823835047595756}}	
+2015-02-25 23:35:23.927616	{'msg': 'Fine', 'score': 'Neutral', 'id': u'27', 'value': {'polite': 0.28118448457415302, 'impolite': 0.71881551542584676}}	
+2015-02-25 23:35:24.741155	{'msg': 'Fine', 'score': 'Neutral', 'id': u'20', 'value': {'polite': 0.53328218600273991, 'impolite': 0.4667178139972602}}	
+2015-02-25 23:36:28.280675	{'msg': 'Fine', 'score': 'Neutral', 'id': u'31', 'value': {'polite': 0.28543019940989084, 'impolite': 0.71456980059010911}}	
+2015-02-25 23:36:29.870754	{'msg': 'Fine', 'score': 'Neutral', 'id': u'39', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-25 23:36:30.321720	{'msg': 'Fine', 'score': 'Neutral', 'id': u'41', 'value': {'polite': 0.47000469387404864, 'impolite': 0.52999530612595147}}	
+2015-02-25 23:36:30.979739	{'msg': 'Fine', 'score': 'Neutral', 'id': u'43', 'value': {'polite': 0.2504557341802286, 'impolite': 0.74954426581977174}}	
+2015-02-25 23:36:33.120083	{'msg': 'Fine', 'score': 'Polite', 'id': u'46', 'value': {'polite': 0.69949772629721652, 'impolite': 0.30050227370278343}}	
+2015-02-25 23:36:33.589951	{'msg': 'Fine', 'score': 'Neutral', 'id': u'50', 'value': {'polite': 0.49388739260214071, 'impolite': 0.50611260739785924}}	
+2015-02-25 23:36:57.949121	{'msg': 'Fine', 'score': 'Neutral', 'id': u'51', 'value': {'polite': 0.5, 'impolite': 0.5}}	
+2015-02-25 23:36:58.175666	{'msg': 'Fine', 'score': 'Neutral', 'id': u'56', 'value': {'polite': 0.28543019940989084, 'impolite': 0.71456980059010911}}	
+2015-02-25 23:36:59.107922	{'msg': 'Fine', 'score': 'Neutral', 'id': u'58', 'value': {'polite': 0.44691791177428258, 'impolite': 0.55308208822571736}}	
+2015-02-26 00:55:46.847895	{'msg': 'Fine', 'score': 'Neutral', 'id': u'0', 'value': {'polite': 0.44112101897501843, 'impolite': 0.55887898102498157}}	
+2015-02-26 00:55:47.284747	{'msg': 'Fine', 'score': 'Neutral', 'id': u'2', 'value': {'polite': 0.35398688191414229, 'impolite': 0.64601311808585782}}	
+2015-02-26 00:55:50.218384	{'msg': 'Fine', 'score': 'Neutral', 'id': u'7', 'value': {'polite': 0.35028663386938452, 'impolite': 0.64971336613061537}}	
+2015-02-26 00:55:50.476896	{'msg': 'Fine', 'score': 'Neutral', 'id': u'8', 'value': {'polite': 0.2211910782008232, 'impolite': 0.7788089217991766}}	
+2015-02-26 00:55:50.748016	{'msg': 'Fine', 'score': 'Neutral', 'id': u'11', 'value': {'polite': 0.21297083450132703, 'impolite': 0.78702916549867319}}	
+2015-02-26 00:59:33.067682	{'msg': 'Fine', 'score': 'Neutral', 'id': u'13', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 00:59:52.768387	{'msg': 'Fine', 'score': 'Neutral', 'id': u'15', 'value': {'polite': 0.39885007176968856, 'impolite': 0.60114992823031155}}	
+2015-02-26 01:00:22.366333	{'msg': 'Fine', 'score': 'Neutral', 'id': u'16', 'value': {'polite': 0.46346041082553713, 'impolite': 0.53653958917446287}}	
+2015-02-26 01:00:59.487459	{'msg': 'Fine', 'score': 'Neutral', 'id': u'17', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 01:36:57.823912	{'msg': 'Fine', 'score': 'Neutral', 'id': u'0', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 01:37:00.343435	{'msg': 'Fine', 'score': 'Neutral', 'id': u'3', 'value': {'polite': 0.22674488220842365, 'impolite': 0.77325511779157619}}	
+2015-02-26 01:37:01.612443	{'msg': 'Fine', 'score': 'Neutral', 'id': u'4', 'value': {'polite': 0.44112101897501843, 'impolite': 0.55887898102498157}}	
+2015-02-26 01:37:27.333661	{'msg': 'Fine', 'score': 'Neutral', 'id': u'0', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 01:45:29.863809	{'msg': 'Fine', 'score': 'Neutral', 'id': u'19', 'value': {'polite': 0.5788334561410553, 'impolite': 0.42116654385894475}}	
+2015-02-26 01:45:41.021242	{'msg': 'Fine', 'score': 'Polite', 'id': u'21', 'value': {'polite': 0.77066745415543791, 'impolite': 0.22933254584456245}}	
+2015-02-26 01:45:41.764998	{'msg': 'Fine', 'score': 'Neutral', 'id': u'23', 'value': {'polite': 0.64642513734425189, 'impolite': 0.353574862655748}}	
+2015-02-26 01:45:42.327272	{'msg': 'Fine', 'score': 'Neutral', 'id': u'26', 'value': {'polite': 0.42297264671150858, 'impolite': 0.57702735328849131}}	
+2015-02-26 01:45:42.983679	{'msg': 'Fine', 'score': 'Polite', 'id': u'29', 'value': {'polite': 0.81843435484857319, 'impolite': 0.18156564515142659}}	
+2015-02-26 02:35:22.865047	{'msg': 'Fine', 'score': 'Impolite', 'id': u'19', 'value': {'polite': 0.099339758377519904, 'impolite': 0.90066024162248004}}	
+2015-02-26 02:35:23.452354	{'msg': 'Fine', 'score': 'Neutral', 'id': u'22', 'value': {'polite': 0.31269558326213864, 'impolite': 0.68730441673786136}}	
+2015-02-26 02:35:24.451319	{'msg': 'Fine', 'score': 'Neutral', 'id': u'25', 'value': {'polite': 0.6106319965452377, 'impolite': 0.38936800345476241}}	
+2015-02-26 02:35:25.360322	{'msg': 'Fine', 'score': 'Neutral', 'id': u'27', 'value': {'polite': 0.33723299559291908, 'impolite': 0.66276700440708092}}	
+2015-02-26 02:35:25.799152	{'msg': 'Fine', 'score': 'Neutral', 'id': u'29', 'value': {'polite': 0.3522364994050543, 'impolite': 0.6477635005949457}}	
+2015-02-26 02:35:26.039221	{'msg': 'Fine', 'score': 'Neutral', 'id': u'30', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 02:35:27.174985	{'msg': 'Fine', 'score': 'Neutral', 'id': u'32', 'value': {'polite': 0.42061859091692427, 'impolite': 0.57938140908307578}}	
+2015-02-26 02:35:27.820905	{'msg': 'Fine', 'score': 'Neutral', 'id': u'35', 'value': {'polite': 0.6311439038666764, 'impolite': 0.36885609613332354}}	
+2015-02-26 02:35:28.095032	{'msg': 'Fine', 'score': 'Neutral', 'id': u'37', 'value': {'polite': 0.36950233128870669, 'impolite': 0.63049766871129342}}	
+2015-02-26 02:35:28.351288	{'msg': 'Fine', 'score': 'Neutral', 'id': u'41', 'value': {'polite': 0.5, 'impolite': 0.5}}	
+2015-02-26 02:35:29.024933	{'msg': 'Fine', 'score': 'Neutral', 'id': u'43', 'value': {'polite': 0.35060952454255773, 'impolite': 0.64939047545744222}}	
+2015-02-26 02:35:29.289989	{'msg': 'Fine', 'score': 'Neutral', 'id': u'45', 'value': {'polite': 0.30737723620943408, 'impolite': 0.69262276379056575}}	
+2015-02-26 02:35:29.685155	{'msg': 'Fine', 'score': 'Neutral', 'id': u'47', 'value': {'polite': 0.41294136855743296, 'impolite': 0.58705863144256698}}	
+2015-02-26 02:35:29.902592	{'msg': 'Fine', 'score': 'Neutral', 'id': u'49', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 02:46:06.158414	{'msg': 'Fine', 'score': 'Neutral', 'id': u'1', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 02:46:07.829973	{'msg': 'Fine', 'score': 'Neutral', 'id': u'5', 'value': {'polite': 0.4458973854928468, 'impolite': 0.55410261450715337}}	
+2015-02-26 02:46:08.169039	{'msg': 'Fine', 'score': 'Neutral', 'id': u'9', 'value': {'polite': 0.21180189509850589, 'impolite': 0.78819810490149378}}	
+2015-02-26 02:46:16.352274	{'msg': 'Fine', 'score': 'Neutral', 'id': u'11', 'value': {'polite': 0.48119415017654543, 'impolite': 0.51880584982345435}}	
+2015-02-26 02:46:19.853420	{'msg': 'Fine', 'score': 'Polite', 'id': u'16', 'value': {'polite': 0.72598315102005073, 'impolite': 0.27401684897994949}}	
+2015-02-26 02:46:20.158268	{'msg': 'Fine', 'score': 'Neutral', 'id': u'19', 'value': {'polite': 0.41267938611705762, 'impolite': 0.58732061388294243}}	
+2015-02-26 02:50:33.965000	{'msg': 'Fine', 'score': 'Neutral', 'id': u'0', 'value': {'polite': 0.3091031142662139, 'impolite': 0.69089688573378627}}	
+2015-02-26 02:50:37.832464	{'msg': 'Fine', 'score': 'Neutral', 'id': u'5', 'value': {'polite': 0.63156230478452369, 'impolite': 0.36843769521547637}}	
+2015-02-26 02:50:38.539587	{'msg': 'Fine', 'score': 'Neutral', 'id': u'8', 'value': {'polite': 0.25864791919399471, 'impolite': 0.74135208080600545}}	
+2015-02-26 02:50:38.777917	{'msg': 'Fine', 'score': 'Neutral', 'id': u'9', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 02:50:39.643275	{'msg': 'Fine', 'score': 'Neutral', 'id': u'14', 'value': {'polite': 0.26649674229874715, 'impolite': 0.73350325770125258}}	
+2015-02-26 02:51:38.746459	{'msg': 'Fine', 'score': 'Neutral', 'id': u'17', 'value': {'polite': 0.47136288195027559, 'impolite': 0.52863711804972457}}	
+2015-02-26 02:51:39.459580	{'msg': 'Fine', 'score': 'Neutral', 'id': u'19', 'value': {'polite': 0.41370622994206485, 'impolite': 0.58629377005793493}}	
+2015-02-26 02:51:39.729670	{'msg': 'Fine', 'score': 'Neutral', 'id': u'21', 'value': {'polite': 0.5, 'impolite': 0.5}}	
+2015-02-26 02:51:39.951363	{'msg': 'Fine', 'score': 'Neutral', 'id': u'22', 'value': {'polite': 0.39530641445287018, 'impolite': 0.60469358554712982}}	
+2015-02-26 02:51:47.642319	{'msg': 'Fine', 'score': 'Neutral', 'id': u'25', 'value': {'polite': 0.26889670945381766, 'impolite': 0.73110329054618228}}	
+2015-02-26 02:51:48.071652	{'msg': 'Fine', 'score': 'Neutral', 'id': u'27', 'value': {'polite': 0.3891210761959677, 'impolite': 0.61087892380403219}}	
+2015-02-26 02:51:49.109954	{'msg': 'Fine', 'score': 'Neutral', 'id': u'31', 'value': {'polite': 0.4904812693058751, 'impolite': 0.50951873069412479}}	
+2015-02-26 02:51:50.863302	{'msg': 'Fine', 'score': 'Polite', 'id': u'34', 'value': {'polite': 0.87443423330932657, 'impolite': 0.12556576669067335}}	
+2015-02-26 02:54:30.719900	{'msg': 'Fine', 'score': 'Neutral', 'id': u'40', 'value': {'polite': 0.57654312908292304, 'impolite': 0.42345687091707701}}	
+2015-02-26 02:54:31.018626	{'msg': 'Fine', 'score': 'Neutral', 'id': u'42', 'value': {'polite': 0.28240450767135444, 'impolite': 0.71759549232864561}}	
+2015-02-26 02:54:31.940605	{'msg': 'Fine', 'score': 'Neutral', 'id': u'47', 'value': {'polite': 0.38426401034270241, 'impolite': 0.6157359896572977}}	
+2015-02-26 02:54:32.146497	{'msg': 'Fine', 'score': 'Neutral', 'id': u'49', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 02:54:34.179855	{'msg': 'Fine', 'score': 'Neutral', 'id': u'52', 'value': {'polite': 0.37942377701393976, 'impolite': 0.62057622298606019}}	
+2015-02-26 02:54:56.470662	{'msg': 'Fine', 'score': 'Neutral', 'id': u'53', 'value': {'polite': 0.36512824032483093, 'impolite': 0.63487175967516907}}	
+2015-02-26 02:54:59.804114	{'msg': 'Fine', 'score': 'Neutral', 'id': u'56', 'value': {'polite': 0.58939842486380722, 'impolite': 0.41060157513619272}}	
+2015-02-26 02:55:00.811589	{'msg': 'Fine', 'score': 'Neutral', 'id': u'58', 'value': {'polite': 0.25916403448383657, 'impolite': 0.74083596551616349}}	
+2015-02-26 02:55:01.201316	{'msg': 'Fine', 'score': 'Neutral', 'id': u'61', 'value': {'polite': 0.63895805828117103, 'impolite': 0.36104194171882903}}	
+2015-02-26 02:55:26.366561	{'msg': 'Fine', 'score': 'Polite', 'id': u'21', 'value': {'polite': 0.665614032059344, 'impolite': 0.33438596794065595}}	
+2015-02-26 02:55:27.417124	{'msg': 'Fine', 'score': 'Neutral', 'id': u'23', 'value': {'polite': 0.43627061206701995, 'impolite': 0.56372938793298}}	
+2015-02-26 02:55:28.341005	{'msg': 'Fine', 'score': 'Polite', 'id': u'68', 'value': {'polite': 0.70372850911320095, 'impolite': 0.29627149088679894}}	
+2015-02-26 02:55:29.182102	{'msg': 'Fine', 'score': 'Neutral', 'id': u'74', 'value': {'polite': 0.60074274583793918, 'impolite': 0.39925725416206065}}	
+2015-02-26 02:55:29.798646	{'msg': 'Fine', 'score': 'Neutral', 'id': u'25', 'value': {'polite': 0.3135909552562014, 'impolite': 0.6864090447437986}}	
+2015-02-26 02:55:30.051994	{'msg': 'Fine', 'score': 'Neutral', 'id': u'27', 'value': {'polite': 0.33828643606987552, 'impolite': 0.66171356393012448}}	
+2015-02-26 02:55:39.677870	{'msg': 'Fine', 'score': 'Neutral', 'id': u'81', 'value': {'polite': 0.3688566269701834, 'impolite': 0.63114337302981671}}	
+2015-02-26 02:55:40.164949	{'msg': 'Fine', 'score': 'Neutral', 'id': u'82', 'value': {'polite': 0.48913034359244367, 'impolite': 0.51086965640755633}}	
+2015-02-26 02:55:47.479203	{'msg': 'Fine', 'score': 'Neutral', 'id': u'88', 'value': {'polite': 0.37153465502526395, 'impolite': 0.62846534497473605}}	
+2015-02-26 02:55:47.706570	{'msg': 'Fine', 'score': 'Neutral', 'id': u'90', 'value': {'polite': 0.40788866958754377, 'impolite': 0.59211133041245612}}	
+2015-02-26 02:55:48.308158	{'msg': 'Fine', 'score': 'Neutral', 'id': u'94', 'value': {'polite': 0.35432646008663526, 'impolite': 0.64567353991336485}}	
+2015-02-26 02:58:22.821762	{'msg': 'Fine', 'score': 'Neutral', 'id': u'96', 'value': {'polite': 0.42410995886564462, 'impolite': 0.57589004113435538}}	
+2015-02-26 02:58:23.487200	{'msg': 'Fine', 'score': 'Neutral', 'id': u'100', 'value': {'polite': 0.41617680390282752, 'impolite': 0.58382319609717248}}	
+2015-02-26 02:58:56.144001	{'msg': 'Fine', 'score': 'Neutral', 'id': u'105', 'value': {'polite': 0.53235042494009299, 'impolite': 0.46764957505990712}}	
+2015-02-26 02:59:01.143339	{'msg': 'Fine', 'score': 'Neutral', 'id': u'110', 'value': {'polite': 0.38300116408552159, 'impolite': 0.61699883591447835}}	
+2015-02-26 02:59:01.454853	{'msg': 'Fine', 'score': 'Neutral', 'id': u'112', 'value': {'polite': 0.47446169024594964, 'impolite': 0.52553830975405047}}	
+2015-02-26 02:59:21.722711	{'msg': 'Fine', 'score': 'Neutral', 'id': u'113', 'value': {'polite': 0.34335837077834058, 'impolite': 0.65664162922165958}}	
+2015-02-26 02:59:22.361350	{'msg': 'Fine', 'score': 'Neutral', 'id': u'115', 'value': {'polite': 0.39410522856975722, 'impolite': 0.60589477143024273}}	
+2015-02-26 02:59:26.254014	{'msg': 'Fine', 'score': 'Polite', 'id': u'120', 'value': {'polite': 0.73076604145620749, 'impolite': 0.26923395854379262}}	
+2015-02-26 02:59:26.696119	{'msg': 'Fine', 'score': 'Polite', 'id': u'121', 'value': {'polite': 0.81843435484857319, 'impolite': 0.18156564515142659}}	
+2015-02-26 02:59:27.895685	{'msg': 'Fine', 'score': 'Neutral', 'id': u'124', 'value': {'polite': 0.54351048856372985, 'impolite': 0.45648951143627015}}	
+2015-02-26 02:59:28.203197	{'msg': 'Fine', 'score': 'Neutral', 'id': u'125', 'value': {'polite': 0.41225862965355842, 'impolite': 0.58774137034644147}}	
+2015-02-26 03:02:31.651095	{'msg': 'Fine', 'score': 'Neutral', 'id': u'4', 'value': {'polite': 0.63156230478452369, 'impolite': 0.36843769521547637}}	
+2015-02-26 03:02:31.900085	{'msg': 'Fine', 'score': 'Neutral', 'id': u'5', 'value': {'polite': 0.25974886262752878, 'impolite': 0.74025113737247117}}	
+2015-02-26 03:05:35.154193	{'msg': 'Fine', 'score': 'Neutral', 'id': u'6', 'value': {'polite': 0.36593219850848008, 'impolite': 0.63406780149151987}}	
+2015-02-26 03:05:37.440552	{'msg': 'Fine', 'score': 'Neutral', 'id': u'13', 'value': {'polite': 0.26649674229874715, 'impolite': 0.73350325770125258}}	
+2015-02-26 03:11:37.506481	{'msg': 'Fine', 'score': 'Neutral', 'id': u'31', 'value': {'polite': 0.30961452573871551, 'impolite': 0.69038547426128472}}	
+2015-02-26 03:11:39.094173	{'msg': 'Fine', 'score': 'Neutral', 'id': u'33', 'value': {'polite': 0.42337674080424587, 'impolite': 0.57662325919575408}}	
+2015-02-26 03:11:39.392539	{'msg': 'Fine', 'score': 'Neutral', 'id': u'35', 'value': {'polite': 0.48173354663101697, 'impolite': 0.51826645336898314}}	
+2015-02-26 03:24:06.679835	{'msg': 'Fine', 'score': 'Neutral', 'id': u'37', 'value': {'polite': 0.60409601316765971, 'impolite': 0.3959039868323404}}	
+2015-02-26 03:24:07.291454	{'msg': 'Fine', 'score': 'Neutral', 'id': u'39', 'value': {'polite': 0.30255594067840264, 'impolite': 0.69744405932159736}}	
+2015-02-26 03:24:08.072504	{'msg': 'Fine', 'score': 'Neutral', 'id': u'42', 'value': {'polite': 0.47866464136028009, 'impolite': 0.52133535863971991}}	
+2015-02-26 03:25:28.680758	{'msg': 'Fine', 'score': 'Neutral', 'id': u'44', 'value': {'polite': 0.44895174243679281, 'impolite': 0.55104825756320719}}	
+2015-02-26 03:30:31.614178	{'msg': 'Fine', 'score': 'Neutral', 'id': u'1', 'value': {'polite': 0.47637140017798213, 'impolite': 0.52362859982201782}}	
+2015-02-26 03:30:33.817969	{'msg': 'Fine', 'score': 'Neutral', 'id': u'4', 'value': {'polite': 0.22674488220842365, 'impolite': 0.77325511779157619}}	
+2015-02-26 03:30:34.542020	{'msg': 'Fine', 'score': 'Neutral', 'id': u'3', 'value': {'polite': 0.53984488927615404, 'impolite': 0.46015511072384596}}	
+2015-02-26 03:30:35.050680	{'msg': 'Fine', 'score': 'Neutral', 'id': u'8', 'value': {'polite': 0.36254730865865481, 'impolite': 0.63745269134134508}}	
+2015-02-26 03:30:37.838195	{'msg': 'Fine', 'score': 'Polite', 'id': u'11', 'value': {'polite': 0.72598315102005073, 'impolite': 0.27401684897994949}}	
+2015-02-26 03:31:20.023069	{'msg': 'Fine', 'score': 'Neutral', 'id': u'12', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 03:31:21.034217	{'msg': 'Fine', 'score': 'Neutral', 'id': u'16', 'value': {'polite': 0.56656153449055002, 'impolite': 0.43343846550945014}}	
+2015-02-26 03:31:22.526738	{'msg': 'Fine', 'score': 'Neutral', 'id': u'21', 'value': {'polite': 0.5, 'impolite': 0.5}}	
+2015-02-26 04:09:15.833800	{'msg': 'Fine', 'score': 'Neutral', 'id': u'0', 'value': {'polite': 0.33037147080021928, 'impolite': 0.66962852919978078}}	
+2015-02-26 04:09:16.193196	{'msg': 'Fine', 'score': 'Neutral', 'id': u'3', 'value': {'polite': 0.38874200166207251, 'impolite': 0.61125799833792749}}	
+2015-02-26 04:09:18.019319	{'msg': 'Fine', 'score': 'Neutral', 'id': u'5', 'value': {'polite': 0.57196418047618935, 'impolite': 0.42803581952381059}}	
+2015-02-26 04:09:18.763263	{'msg': 'Fine', 'score': 'Neutral', 'id': u'9', 'value': {'polite': 0.30618062348418096, 'impolite': 0.69381937651581915}}	
+2015-02-26 04:09:19.127139	{'msg': 'Fine', 'score': 'Neutral', 'id': u'11', 'value': {'polite': 0.34491270500199855, 'impolite': 0.65508729499800145}}	
+2015-02-26 04:09:19.375042	{'msg': 'Fine', 'score': 'Neutral', 'id': u'13', 'value': {'polite': 0.38426401034270241, 'impolite': 0.6157359896572977}}	
+2015-02-26 04:09:20.067842	{'msg': 'Fine', 'score': 'Neutral', 'id': u'16', 'value': {'polite': 0.44895174243679281, 'impolite': 0.55104825756320719}}	
+2015-02-26 04:09:20.436893	{'msg': 'Fine', 'score': 'Neutral', 'id': u'18', 'value': {'polite': 0.27324236715419381, 'impolite': 0.72675763284580597}}	
+2015-02-26 04:09:21.080625	{'msg': 'Fine', 'score': 'Neutral', 'id': u'20', 'value': {'polite': 0.24107154181137361, 'impolite': 0.75892845818862664}}	
+2015-02-26 04:09:36.268774	{'msg': 'Fine', 'score': 'Polite', 'id': u'24', 'value': {'polite': 0.87895588990770135, 'impolite': 0.1210441100922986}}	
+2015-02-26 04:09:36.564393	{'msg': 'Fine', 'score': 'Neutral', 'id': u'27', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 04:09:36.927052	{'msg': 'Fine', 'score': 'Neutral', 'id': u'29', 'value': {'polite': 0.28514160762226126, 'impolite': 0.71485839237773863}}	
+2015-02-26 04:09:49.997730	{'msg': 'Fine', 'score': 'Neutral', 'id': u'33', 'value': {'polite': 0.27226078383580432, 'impolite': 0.72773921616419579}}	
+2015-02-26 04:09:50.329191	{'msg': 'Fine', 'score': 'Neutral', 'id': u'36', 'value': {'polite': 0.23572005724089096, 'impolite': 0.76427994275910915}}	
+2015-02-26 04:09:50.558056	{'msg': 'Fine', 'score': 'Neutral', 'id': u'39', 'value': {'polite': 0.38874200166207251, 'impolite': 0.61125799833792749}}	
+2015-02-26 04:09:51.225022	{'msg': 'Fine', 'score': 'Neutral', 'id': u'41', 'value': {'polite': 0.53984488927615404, 'impolite': 0.46015511072384596}}	
+2015-02-26 04:10:36.786994	{'msg': 'Fine', 'score': 'Neutral', 'id': u'44', 'value': {'polite': 0.64637333711076739, 'impolite': 0.35362666288923261}}	
+2015-02-26 04:10:37.231348	{'msg': 'Fine', 'score': 'Neutral', 'id': u'48', 'value': {'polite': 0.27226078383580432, 'impolite': 0.72773921616419579}}	
+2015-02-26 04:10:37.526764	{'msg': 'Fine', 'score': 'Neutral', 'id': u'51', 'value': {'polite': 0.38426401034270241, 'impolite': 0.6157359896572977}}	
+2015-02-26 04:10:37.880740	{'msg': 'Fine', 'score': 'Neutral', 'id': u'53', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 04:10:38.109498	{'msg': 'Fine', 'score': 'Neutral', 'id': u'55', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 04:11:33.475272	{'msg': 'Fine', 'score': 'Neutral', 'id': u'56', 'value': {'polite': 0.34308847198927928, 'impolite': 0.65691152801072072}}	
+2015-02-26 04:11:34.017280	{'msg': 'Fine', 'score': 'Neutral', 'id': u'61', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 04:11:34.986358	{'msg': 'Fine', 'score': 'Neutral', 'id': u'63', 'value': {'polite': 0.53556565225066899, 'impolite': 0.4644343477493309}}	
+2015-02-26 04:11:35.368511	{'msg': 'Fine', 'score': 'Neutral', 'id': u'65', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 04:40:27.922975	{'msg': 'Fine', 'score': 'Neutral', 'id': u'67', 'value': {'polite': 0.41077366179055186, 'impolite': 0.58922633820944825}}	
+2015-02-26 04:40:28.703208	{'msg': 'Fine', 'score': 'Neutral', 'id': u'69', 'value': {'polite': 0.45416069488729638, 'impolite': 0.54583930511270373}}	
+2015-02-26 04:40:29.984749	{'msg': 'Fine', 'score': 'Impolite', 'id': u'72', 'value': {'polite': 0.16333871409038578, 'impolite': 0.83666128590961431}}	
+2015-02-26 04:40:30.227810	{'msg': 'Fine', 'score': 'Neutral', 'id': u'74', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 04:42:18.545940	{'msg': 'Fine', 'score': 'Impolite', 'id': u'78', 'value': {'polite': 0.12955526424814129, 'impolite': 0.87044473575185866}}	
+2015-02-26 04:42:19.663424	{'msg': 'Fine', 'score': 'Neutral', 'id': u'80', 'value': {'polite': 0.59105078254516819, 'impolite': 0.40894921745483159}}	
+2015-02-26 04:42:19.924513	{'msg': 'Fine', 'score': 'Neutral', 'id': u'82', 'value': {'polite': 0.31828807308972662, 'impolite': 0.68171192691027327}}	
+2015-02-26 04:42:20.336935	{'msg': 'Fine', 'score': 'Neutral', 'id': u'84', 'value': {'polite': 0.20244363780772634, 'impolite': 0.79755636219227366}}	
+2015-02-26 04:48:14.251660	{'msg': 'Fine', 'score': 'Neutral', 'id': u'4', 'value': {'polite': 0.29949402576332995, 'impolite': 0.70050597423667016}}	
+2015-02-26 04:48:15.600133	{'msg': 'Fine', 'score': 'Impolite', 'id': u'3', 'value': {'polite': 0.18812404721614742, 'impolite': 0.81187595278385249}}	
+2015-02-26 04:48:20.900474	{'msg': 'Fine', 'score': 'Neutral', 'id': u'10', 'value': {'polite': 0.3462692507851855, 'impolite': 0.65373074921481455}}	
+2015-02-26 04:48:22.373480	{'msg': 'Fine', 'score': 'Neutral', 'id': u'17', 'value': {'polite': 0.2599046777637552, 'impolite': 0.74009532223624463}}	
+2015-02-26 04:48:22.680076	{'msg': 'Fine', 'score': 'Neutral', 'id': u'11', 'value': {'polite': 0.48390707433377617, 'impolite': 0.51609292566622389}}	
+2015-02-26 04:48:23.274512	{'msg': 'Fine', 'score': 'Neutral', 'id': u'20', 'value': {'polite': 0.41370622994206485, 'impolite': 0.58629377005793493}}	
+2015-02-26 04:48:25.912329	{'msg': 'Fine', 'score': 'Neutral', 'id': u'14', 'value': {'polite': 0.39730059921522032, 'impolite': 0.60269940078477957}}	
+2015-02-26 04:48:30.183377	{'msg': 'Fine', 'score': 'Neutral', 'id': u'21', 'value': {'polite': 0.37405701423854748, 'impolite': 0.62594298576145235}}	
+2015-02-26 04:48:30.548859	{'msg': 'Fine', 'score': 'Neutral', 'id': u'23', 'value': {'polite': 0.36512824032483093, 'impolite': 0.63487175967516907}}	
+2015-02-26 04:48:31.156457	{'msg': 'Fine', 'score': 'Impolite', 'id': u'27', 'value': {'polite': 0.11285406795982035, 'impolite': 0.88714593204017955}}	
+2015-02-26 04:48:31.409172	{'msg': 'Fine', 'score': 'Polite', 'id': u'29', 'value': {'polite': 0.67135713458456214, 'impolite': 0.32864286541543797}}	
+2015-02-26 04:48:31.747163	{'msg': 'Fine', 'score': 'Neutral', 'id': u'31', 'value': {'polite': 0.37793558470891486, 'impolite': 0.62206441529108525}}	
+2015-02-26 04:48:32.196831	{'msg': 'Fine', 'score': 'Neutral', 'id': u'33', 'value': {'polite': 0.6034127326904476, 'impolite': 0.39658726730955235}}	
+2015-02-26 04:48:32.404595	{'msg': 'Fine', 'score': 'Neutral', 'id': u'35', 'value': {'polite': 0.38426401034270241, 'impolite': 0.6157359896572977}}	
+2015-02-26 04:48:35.697185	{'msg': 'Fine', 'score': 'Neutral', 'id': u'36', 'value': {'polite': 0.33660087212105877, 'impolite': 0.66339912787894117}}	
+2015-02-26 04:48:36.425878	{'msg': 'Fine', 'score': 'Polite', 'id': u'39', 'value': {'polite': 0.83415933291570765, 'impolite': 0.16584066708429243}}	
+2015-02-26 04:51:23.869816	{'msg': 'Fine', 'score': 'Neutral', 'id': u'46', 'value': {'polite': 0.21851902882343341, 'impolite': 0.78148097117656656}}	
+2015-02-26 04:51:27.428989	{'msg': 'Fine', 'score': 'Neutral', 'id': u'47', 'value': {'polite': 0.40773583636190652, 'impolite': 0.59226416363809342}}	
+2015-02-26 04:51:28.543774	{'msg': 'Fine', 'score': 'Neutral', 'id': u'49', 'value': {'polite': 0.54351048856372985, 'impolite': 0.45648951143627015}}	
+2015-02-26 04:51:29.392746	{'msg': 'Fine', 'score': 'Neutral', 'id': u'52', 'value': {'polite': 0.61239807318302752, 'impolite': 0.38760192681697236}}	
+2015-02-26 04:59:45.197149	{'msg': 'Fine', 'score': 'Neutral', 'id': u'56', 'value': {'polite': 0.47937249570517126, 'impolite': 0.52062750429482874}}	
+2015-02-26 04:59:52.118997	{'msg': 'Fine', 'score': 'Neutral', 'id': u'57', 'value': {'polite': 0.43840263695347143, 'impolite': 0.56159736304652874}}	
+2015-02-26 04:59:54.204958	{'msg': 'Fine', 'score': 'Impolite', 'id': u'61', 'value': {'polite': 0.18234519785362843, 'impolite': 0.81765480214637143}}	
+2015-02-26 04:59:54.470799	{'msg': 'Fine', 'score': 'Neutral', 'id': u'62', 'value': {'polite': 0.34626533221323791, 'impolite': 0.65373466778676204}}	
+2015-02-26 04:59:54.760811	{'msg': 'Fine', 'score': 'Neutral', 'id': u'66', 'value': {'polite': 0.43077714554412738, 'impolite': 0.56922285445587284}}	
+2015-02-26 04:59:54.973549	{'msg': 'Fine', 'score': 'Neutral', 'id': u'68', 'value': {'polite': 0.38874200166207251, 'impolite': 0.61125799833792749}}	
+2015-02-26 04:59:55.222120	{'msg': 'Fine', 'score': 'Neutral', 'id': u'70', 'value': {'polite': 0.41077346860614194, 'impolite': 0.58922653139385806}}	
+2015-02-26 04:59:55.577992	{'msg': 'Fine', 'score': 'Neutral', 'id': u'72', 'value': {'polite': 0.4539907720918383, 'impolite': 0.54600922790816164}}	
+2015-02-26 05:00:21.789733	{'msg': 'Fine', 'score': 'Neutral', 'id': u'73', 'value': {'polite': 0.46210804950422479, 'impolite': 0.53789195049577521}}	
+2015-02-26 05:00:22.214902	{'msg': 'Fine', 'score': 'Neutral', 'id': u'74', 'value': {'polite': 0.27568894677996775, 'impolite': 0.72431105322003231}}	
+2015-02-26 05:00:27.422500	{'msg': 'Fine', 'score': 'Polite', 'id': u'78', 'value': {'polite': 0.79822894075896511, 'impolite': 0.20177105924103486}}	
+2015-02-26 05:00:27.779369	{'msg': 'Fine', 'score': 'Impolite', 'id': u'81', 'value': {'polite': 0.16715666454121381, 'impolite': 0.83284333545878608}}	
+2015-02-26 05:09:57.124696	{'msg': 'Fine', 'score': 'Neutral', 'id': u'0', 'value': {'polite': 0.38077322666627078, 'impolite': 0.61922677333372922}}	
+2015-02-26 05:09:58.277381	{'msg': 'Fine', 'score': 'Neutral', 'id': u'1', 'value': {'polite': 0.36070023119594985, 'impolite': 0.63929976880405015}}	
+2015-02-26 05:10:18.705006	{'msg': 'Fine', 'score': 'Neutral', 'id': u'8', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 05:10:19.616583	{'msg': 'Fine', 'score': 'Neutral', 'id': u'7', 'value': {'polite': 0.23743733981251311, 'impolite': 0.76256266018748708}}	
+2015-02-26 05:10:19.898758	{'msg': 'Fine', 'score': 'Neutral', 'id': u'9', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 05:10:24.201850	{'msg': 'Fine', 'score': 'Neutral', 'id': u'14', 'value': {'polite': 0.3448406091563701, 'impolite': 0.65515939084362995}}	
+2015-02-26 05:15:19.941539	{'msg': 'Fine', 'score': 'Neutral', 'id': u'83', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 05:15:22.354907	{'msg': 'Fine', 'score': 'Neutral', 'id': u'86', 'value': {'polite': 0.52852015851736112, 'impolite': 0.47147984148263911}}	
+2015-02-26 05:15:23.538712	{'msg': 'Fine', 'score': 'Polite', 'id': u'88', 'value': {'polite': 0.67625122769586221, 'impolite': 0.3237487723041379}}	
+2015-02-26 05:15:24.259852	{'msg': 'Fine', 'score': 'Neutral', 'id': u'95', 'value': {'polite': 0.2766608036078958, 'impolite': 0.7233391963921042}}	
+2015-02-26 05:15:25.153784	{'msg': 'Fine', 'score': 'Neutral', 'id': u'97', 'value': {'polite': 0.5, 'impolite': 0.5}}	
+2015-02-26 05:15:26.142833	{'msg': 'Fine', 'score': 'Neutral', 'id': u'99', 'value': {'polite': 0.63895805828117103, 'impolite': 0.36104194171882903}}	
+2015-02-26 05:15:26.516300	{'msg': 'Fine', 'score': 'Neutral', 'id': u'101', 'value': {'polite': 0.23874686119990499, 'impolite': 0.76125313880009526}}	
+2015-02-26 05:15:27.046956	{'msg': 'Fine', 'score': 'Neutral', 'id': u'103', 'value': {'polite': 0.4006155589898191, 'impolite': 0.59938444101018074}}	
+2015-02-26 05:15:27.363947	{'msg': 'Fine', 'score': 'Neutral', 'id': u'105', 'value': {'polite': 0.29928374156137566, 'impolite': 0.7007162584386244}}	
+2015-02-26 05:15:27.882298	{'msg': 'Fine', 'score': 'Neutral', 'id': u'107', 'value': {'polite': 0.26261225523813675, 'impolite': 0.73738774476186342}}	
+2015-02-26 05:15:28.631890	{'msg': 'Fine', 'score': 'Neutral', 'id': u'111', 'value': {'polite': 0.49279138702262809, 'impolite': 0.50720861297737174}}	
+2015-02-26 05:15:28.907355	{'msg': 'Fine', 'score': 'Neutral', 'id': u'113', 'value': {'polite': 0.41986427903841267, 'impolite': 0.5801357209615875}}	
+2015-02-26 05:15:29.232696	{'msg': 'Fine', 'score': 'Impolite', 'id': u'115', 'value': {'polite': 0.16715666454121381, 'impolite': 0.83284333545878608}}	
+2015-02-26 05:15:29.831227	{'msg': 'Fine', 'score': 'Neutral', 'id': u'117', 'value': {'polite': 0.56555888945432897, 'impolite': 0.43444111054567103}}	
+2015-02-26 05:15:31.545703	{'msg': 'Fine', 'score': 'Neutral', 'id': u'119', 'value': {'polite': 0.40773583636190652, 'impolite': 0.59226416363809342}}	
+2015-02-26 05:15:33.577206	{'msg': 'Fine', 'score': 'Neutral', 'id': u'121', 'value': {'polite': 0.21851902882343341, 'impolite': 0.78148097117656656}}	
+2015-02-26 05:15:33.939002	{'msg': 'Fine', 'score': 'Neutral', 'id': u'123', 'value': {'polite': 0.46210804950422479, 'impolite': 0.53789195049577521}}	
+2015-02-26 05:15:34.154276	{'msg': 'Fine', 'score': 'Impolite', 'id': u'125', 'value': {'polite': 0.18205925529203332, 'impolite': 0.81794074470796674}}	
+2015-02-26 05:22:03.930401	{'msg': 'Fine', 'score': 'Neutral', 'id': u'16', 'value': {'polite': 0.40057244150707444, 'impolite': 0.59942755849292551}}	
+2015-02-26 05:22:06.293029	{'msg': 'Fine', 'score': 'Neutral', 'id': u'21', 'value': {'polite': 0.21125196495364895, 'impolite': 0.78874803504635105}}	
+2015-02-26 05:22:06.576915	{'msg': 'Fine', 'score': 'Neutral', 'id': u'23', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 05:22:07.005362	{'msg': 'Fine', 'score': 'Neutral', 'id': u'24', 'value': {'polite': 0.26632808735172014, 'impolite': 0.73367191264827969}}	
+2015-02-26 05:22:07.403976	{'msg': 'Fine', 'score': 'Neutral', 'id': u'26', 'value': {'polite': 0.38077322666627078, 'impolite': 0.61922677333372922}}	
+2015-02-26 05:22:09.213940	{'msg': 'Fine', 'score': 'Neutral', 'id': u'29', 'value': {'polite': 0.33110837804106802, 'impolite': 0.66889162195893204}}	
+2015-02-26 05:22:18.817449	{'msg': 'Fine', 'score': 'Neutral', 'id': u'30', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 05:22:19.049667	{'msg': 'Fine', 'score': 'Neutral', 'id': u'33', 'value': {'polite': 0.23743733981251311, 'impolite': 0.76256266018748708}}	
+2015-02-26 05:22:19.263684	{'msg': 'Fine', 'score': 'Neutral', 'id': u'35', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 05:22:19.509282	{'msg': 'Fine', 'score': 'Neutral', 'id': u'39', 'value': {'polite': 0.34520488920670839, 'impolite': 0.65479511079329167}}	
+2015-02-26 05:40:38.271396	{'msg': 'Fine', 'score': 'Neutral', 'id': u'0', 'value': {'polite': 0.59284167681460775, 'impolite': 0.40715832318539213}}	
+2015-02-26 05:40:38.547627	{'msg': 'Fine', 'score': 'Neutral', 'id': u'4', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 05:40:38.818220	{'msg': 'Fine', 'score': 'Neutral', 'id': u'8', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 05:40:39.310089	{'msg': 'Fine', 'score': 'Neutral', 'id': u'10', 'value': {'polite': 0.4101407058047854, 'impolite': 0.58985929419521455}}	
+2015-02-26 05:40:40.462586	{'msg': 'Fine', 'score': 'Neutral', 'id': u'14', 'value': {'polite': 0.60864382576365683, 'impolite': 0.39135617423634311}}	
+2015-02-26 05:40:48.954303	{'msg': 'Fine', 'score': 'Neutral', 'id': u'18', 'value': {'polite': 0.2504322909293033, 'impolite': 0.74956770907069659}}	
+2015-02-26 05:40:50.028336	{'msg': 'Fine', 'score': 'Neutral', 'id': u'20', 'value': {'polite': 0.24678660293032201, 'impolite': 0.75321339706967794}}	
+2015-02-26 05:40:50.303144	{'msg': 'Fine', 'score': 'Neutral', 'id': u'24', 'value': {'polite': 0.34520488920670839, 'impolite': 0.65479511079329167}}	
+2015-02-26 05:40:52.031004	{'msg': 'Fine', 'score': 'Neutral', 'id': u'28', 'value': {'polite': 0.58153383781535595, 'impolite': 0.41846616218464411}}	
+2015-02-26 05:40:59.188259	{'msg': 'Fine', 'score': 'Neutral', 'id': u'30', 'value': {'polite': 0.34770895740103014, 'impolite': 0.65229104259896986}}	
+2015-02-26 05:40:59.402719	{'msg': 'Fine', 'score': 'Neutral', 'id': u'33', 'value': {'polite': 0.24678660293032201, 'impolite': 0.75321339706967794}}	
+2015-02-26 05:40:59.626318	{'msg': 'Fine', 'score': 'Neutral', 'id': u'35', 'value': {'polite': 0.38426401034270241, 'impolite': 0.6157359896572977}}	
+2015-02-26 05:40:59.870709	{'msg': 'Fine', 'score': 'Neutral', 'id': u'38', 'value': {'polite': 0.38904587462582174, 'impolite': 0.61095412537417826}}	
+2015-02-26 05:41:25.927476	{'msg': 'Fine', 'score': 'Neutral', 'id': u'41', 'value': {'polite': 0.33171339226829782, 'impolite': 0.66828660773170223}}	
+2015-02-26 06:00:20.679606	{'msg': 'Fine', 'score': 'Neutral', 'id': u'52', 'value': {'polite': 0.36805211550678191, 'impolite': 0.63194788449321815}}	
+2015-02-26 06:00:21.305508	{'msg': 'Fine', 'score': 'Neutral', 'id': u'56', 'value': {'polite': 0.47866464136028009, 'impolite': 0.52133535863971991}}	
+2015-02-26 06:00:22.207284	{'msg': 'Fine', 'score': 'Neutral', 'id': u'59', 'value': {'polite': 0.39326555599987828, 'impolite': 0.60673444400012166}}	
+2015-02-26 06:00:23.038120	{'msg': 'Fine', 'score': 'Neutral', 'id': u'60', 'value': {'polite': 0.22640485331324289, 'impolite': 0.77359514668675722}}	
+2015-02-26 06:00:23.345370	{'msg': 'Fine', 'score': 'Neutral', 'id': u'62', 'value': {'polite': 0.31097986680788198, 'impolite': 0.68902013319211808}}	
+2015-02-26 06:00:24.035448	{'msg': 'Fine', 'score': 'Neutral', 'id': u'66', 'value': {'polite': 0.31520401480036303, 'impolite': 0.68479598519963703}}	
+2015-02-26 06:00:28.258198	{'msg': 'Fine', 'score': 'Neutral', 'id': u'67', 'value': {'polite': 0.59284167681460775, 'impolite': 0.40715832318539213}}	
+2015-02-26 06:00:28.486206	{'msg': 'Fine', 'score': 'Neutral', 'id': u'71', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 06:00:28.693718	{'msg': 'Fine', 'score': 'Neutral', 'id': u'75', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 08:25:43.257776	{'msg': 'Fine', 'score': 'Impolite', 'id': u'0', 'value': {'polite': 0.14560742170677765, 'impolite': 0.85439257829322224}}	
+2015-02-26 08:25:44.177560	{'msg': 'Fine', 'score': 'Neutral', 'id': u'3', 'value': {'polite': 0.28240450767135444, 'impolite': 0.71759549232864561}}	
+2015-02-26 08:25:46.522351	{'msg': 'Fine', 'score': 'Neutral', 'id': u'9', 'value': {'polite': 0.29015395495553953, 'impolite': 0.70984604504446047}}	
+2015-02-26 08:25:46.972220	{'msg': 'Fine', 'score': 'Neutral', 'id': u'14', 'value': {'polite': 0.35407531255597396, 'impolite': 0.64592468744402609}}	
+2015-02-26 08:25:47.891892	{'msg': 'Fine', 'score': 'Neutral', 'id': u'16', 'value': {'polite': 0.36816784021787607, 'impolite': 0.63183215978212393}}	
+2015-02-26 08:25:48.407946	{'msg': 'Fine', 'score': 'Polite', 'id': u'19', 'value': {'polite': 0.73252890231771617, 'impolite': 0.267471097682284}}	
+2015-02-26 15:12:49.344269	{'msg': 'Fine', 'score': 'Neutral', 'id': u'0', 'value': {'polite': 0.29548309895553654, 'impolite': 0.70451690104446363}}	
+2015-02-26 15:12:49.580227	{'msg': 'Fine', 'score': 'Neutral', 'id': u'4', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 15:12:50.080582	{'msg': 'Fine', 'score': 'Neutral', 'id': u'8', 'value': {'polite': 0.31097986680788198, 'impolite': 0.68902013319211808}}	
+2015-02-26 15:12:50.416189	{'msg': 'Fine', 'score': 'Neutral', 'id': u'11', 'value': {'polite': 0.3556345924812736, 'impolite': 0.6443654075187264}}	
+2015-02-26 15:17:46.773626	{'msg': 'Fine', 'score': 'Neutral', 'id': u'19', 'value': {'polite': 0.36764284258721391, 'impolite': 0.63235715741278609}}	
+2015-02-26 15:19:21.394539	{'msg': 'Fine', 'score': 'Neutral', 'id': u'23', 'value': {'polite': 0.35213176808472652, 'impolite': 0.64786823191527332}}	
+2015-02-26 15:19:21.677509	{'msg': 'Fine', 'score': 'Neutral', 'id': u'28', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 15:19:21.966709	{'msg': 'Fine', 'score': 'Neutral', 'id': u'29', 'value': {'polite': 0.33136482178500731, 'impolite': 0.66863517821499274}}	
+2015-02-26 15:19:57.493737	{'msg': 'Fine', 'score': 'Neutral', 'id': u'37', 'value': {'polite': 0.4082954889613461, 'impolite': 0.59170451103865396}}	
+2015-02-26 15:35:27.268416	{'msg': 'Fine', 'score': 'Neutral', 'id': u'44', 'value': {'polite': 0.29548309895553654, 'impolite': 0.70451690104446363}}	
+2015-02-26 15:35:27.601696	{'msg': 'Fine', 'score': 'Neutral', 'id': u'47', 'value': {'polite': 0.34727002745216884, 'impolite': 0.65272997254783105}}	
+2015-02-26 15:35:33.493193	{'msg': 'Fine', 'score': 'Neutral', 'id': u'56', 'value': {'polite': 0.4499572426885447, 'impolite': 0.55004275731145535}}	
+2015-02-26 15:35:34.689893	{'msg': 'Fine', 'score': 'Impolite', 'id': u'57', 'value': {'polite': 0.11802892366090927, 'impolite': 0.88197107633909078}}	
+2015-02-26 15:35:35.023929	{'msg': 'Fine', 'score': 'Neutral', 'id': u'61', 'value': {'polite': 0.45897480105204053, 'impolite': 0.54102519894795942}}	
+2015-02-26 15:35:35.326171	{'msg': 'Fine', 'score': 'Neutral', 'id': u'63', 'value': {'polite': 0.36764284258721391, 'impolite': 0.63235715741278609}}	
+2015-02-26 15:35:35.538899	{'msg': 'Fine', 'score': 'Neutral', 'id': u'70', 'value': {'polite': 0.38874200166207251, 'impolite': 0.61125799833792749}}	
+2015-02-26 15:38:10.182188	{'msg': 'Fine', 'score': 'Neutral', 'id': u'73', 'value': {'polite': 0.33136482178500731, 'impolite': 0.66863517821499274}}	
+2015-02-26 15:38:10.399683	{'msg': 'Fine', 'score': 'Neutral', 'id': u'76', 'value': {'polite': 0.35367700323901102, 'impolite': 0.64632299676098903}}	
+2015-02-26 16:03:46.247371	{'msg': 'Fine', 'score': 'Neutral', 'id': u'3', 'value': {'polite': 0.35407531255597396, 'impolite': 0.64592468744402609}}	
+2015-02-26 16:03:50.301883	{'msg': 'Fine', 'score': 'Impolite', 'id': u'2', 'value': {'polite': 0.14754141179925334, 'impolite': 0.85245858820074649}}	
+2015-02-26 16:03:51.332295	{'msg': 'Fine', 'score': 'Neutral', 'id': u'7', 'value': {'polite': 0.41507764240064088, 'impolite': 0.58492235759935918}}	
+2015-02-26 16:05:24.020181	{'msg': 'Fine', 'score': 'Neutral', 'id': u'17', 'value': {'polite': 0.31157511720465758, 'impolite': 0.68842488279534242}}	
+2015-02-26 16:05:26.104619	{'msg': 'Fine', 'score': 'Impolite', 'id': u'20', 'value': {'polite': 0.11802892366090927, 'impolite': 0.88197107633909078}}	
+2015-02-26 16:06:01.999064	{'msg': 'Fine', 'score': 'Neutral', 'id': u'24', 'value': {'polite': 0.34177280466636806, 'impolite': 0.65822719533363183}}	
+2015-02-26 16:06:02.577391	{'msg': 'Fine', 'score': 'Polite', 'id': u'27', 'value': {'polite': 0.73252890231771617, 'impolite': 0.267471097682284}}	
+2015-02-26 16:06:04.528541	{'msg': 'Fine', 'score': 'Neutral', 'id': u'30', 'value': {'polite': 0.5649948743675115, 'impolite': 0.43500512563248855}}	
+2015-02-26 16:06:23.282162	{'msg': 'Fine', 'score': 'Neutral', 'id': u'31', 'value': {'polite': 0.48270574036449981, 'impolite': 0.51729425963550024}}	
+2015-02-26 16:06:23.685809	{'msg': 'Fine', 'score': 'Neutral', 'id': u'32', 'value': {'polite': 0.21044991591626372, 'impolite': 0.78955008408373639}}	
+2015-02-26 16:06:28.335285	{'msg': 'Fine', 'score': 'Neutral', 'id': u'36', 'value': {'polite': 0.5, 'impolite': 0.5}}	
+2015-02-26 16:06:33.896880	{'msg': 'Fine', 'score': 'Neutral', 'id': u'40', 'value': {'polite': 0.35261296912258439, 'impolite': 0.64738703087741556}}	
+2015-02-26 16:06:34.216727	{'msg': 'Fine', 'score': 'Neutral', 'id': u'42', 'value': {'polite': 0.37904053963108131, 'impolite': 0.62095946036891847}}	
+2015-02-26 16:06:34.519012	{'msg': 'Fine', 'score': 'Neutral', 'id': u'46', 'value': {'polite': 0.38426401034270241, 'impolite': 0.6157359896572977}}	
+2015-02-26 16:06:43.201895	{'msg': 'Fine', 'score': 'Neutral', 'id': u'49', 'value': {'polite': 0.279603461059304, 'impolite': 0.72039653894069611}}	
+2015-02-26 16:06:44.819312	{'msg': 'Fine', 'score': 'Neutral', 'id': u'52', 'value': {'polite': 0.21851902882343341, 'impolite': 0.78148097117656656}}	
+2015-02-26 16:06:45.156730	{'msg': 'Fine', 'score': 'Neutral', 'id': u'54', 'value': {'polite': 0.4006155589898191, 'impolite': 0.59938444101018074}}	
+2015-02-26 16:06:45.416339	{'msg': 'Fine', 'score': 'Neutral', 'id': u'56', 'value': {'polite': 0.41986427903841267, 'impolite': 0.5801357209615875}}	
+2015-02-26 16:06:51.027193	{'msg': 'Fine', 'score': 'Neutral', 'id': u'1', 'value': {'polite': 0.31237554870393769, 'impolite': 0.68762445129606231}}	
+2015-02-26 16:06:51.406741	{'msg': 'Fine', 'score': 'Neutral', 'id': u'3', 'value': {'polite': 0.32014449841692988, 'impolite': 0.67985550158307007}}	
+2015-02-26 16:06:51.622705	{'msg': 'Fine', 'score': 'Neutral', 'id': u'6', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 16:10:30.859551	{'msg': 'Fine', 'score': 'Neutral', 'id': u'30', 'value': {'polite': 0.38351113974904821, 'impolite': 0.61648886025095184}}	
+2015-02-26 16:10:31.250854	{'msg': 'Fine', 'score': 'Neutral', 'id': u'37', 'value': {'polite': 0.4717630796263817, 'impolite': 0.52823692037361836}}	
+2015-02-26 16:26:39.069606	{'msg': 'Fine', 'txt': u"On the theme of paying someone to do your crafts, I'm hoping for some suggestions on where to get a custom designed/painted piece of china. Specifically, I want to give my friends a gravy boat as an engagement gift (which they know about), but I want to make it very unique to them and have it painted so that there is a picture of Pope Francis on one side and a picture of either Abraham Lincoln or Teddy Roosevelt on the other (yes, this is something that would make them very happy).\nAnyone know of someone who might be up for this task? Or is someone here very talented at painting gravy boats? I'm on a grad student budget, but I would be willing to pay for this highly unique item.", 'score': 'Neutral', 'id': u'15', 'value': {'polite': 0.64256122675066041, 'impolite': 0.35743877324933954}}	6576
+2015-02-26 16:26:39.822342	{'msg': 'Fine', 'txt': u'Macy\u2019s Wedding Shop: with you until the champagne toast. Register and shop for your big day now!', 'score': 'Neutral', 'id': u'16', 'value': {'polite': 0.55966697960003342, 'impolite': 0.44033302039996663}}	6576
+2015-02-26 16:26:40.323520	{'msg': 'Fine', 'txt': u'Banana Republic now sells clothes for babies. I am officially in heaven.', 'score': 'Neutral', 'id': u'17', 'value': {'polite': 0.40175505569535458, 'impolite': 0.59824494430464537}}	6576
+2015-02-26 16:26:41.076965	{'msg': 'Fine', 'txt': u'Up. Still loopy. Nerve block still blocking the pain that is expected once it wears off (any time now) Thanks so much for your love and support!', 'score': 'Polite', 'id': u'18', 'value': {'polite': 0.68388117897522038, 'impolite': 0.31611882102477956}}	6576
+2015-02-26 16:26:41.693132	{'msg': 'Fine', 'txt': u"Well I'm (MW) all booked for \u202a#\u200echi2015\u202c ! So I can tweet at you all day. Are you booked? https://www.regonline.com/Register/Checkin.aspx\u2026 - Early bird deadline is 6th March!", 'score': 'Polite', 'id': u'19', 'value': {'polite': 0.77968097737253717, 'impolite': 0.22031902262746267}}	6576
+2015-02-26 16:26:42.171765	{'msg': 'Fine', 'txt': u'NOITAMINA(\uffe3\u25bd\uffe3)', 'score': 'Impolite', 'id': u'20', 'value': {'polite': 0.39275362038581796, 'impolite': 0.60724637961418215}}	6576
+2015-02-26 16:26:49.456645	{'msg': 'Fine', 'txt': u"On the theme of paying someone to do your crafts, I'm hoping for some suggestions on where to get a custom designed/painted piece of china. Specifically, I want to give my friends a gravy boat as an engagement gift (which they know about), but I want to make it very unique to them and have it painted so that there is a picture of Pope Francis on one side and a picture of either Abraham Lincoln or Teddy Roosevelt on the other (yes, this is something that would make them very happy).\nAnyone know of someone who might be up for this task? Or is someone here very talented at painting gravy boats? I'm on a grad student budget, but I would be willing to pay for this highly unique item.", 'score': 'Neutral', 'id': u'0', 'value': {'polite': 0.64256122675066041, 'impolite': 0.35743877324933954}}	6576
+2015-02-26 16:26:50.280224	{'msg': 'Fine', 'txt': u'Instantly deploy and get a Linode Cloud Server up and running in seconds with your choice of Linux distro, resources, and node location.', 'score': 'Neutral', 'id': u'1', 'value': {'polite': 0.4700403948692447, 'impolite': 0.52995960513075535}}	6576
+2015-02-26 16:27:04.381227	{'msg': 'Fine', 'txt': u'Banana Republic now sells clothes for babies. I am officially in heaven.', 'score': 'Neutral', 'id': u'2', 'value': {'polite': 0.40175505569535458, 'impolite': 0.59824494430464537}}	6576
+2015-02-26 16:27:05.093522	{'msg': 'Fine', 'txt': u'Up. Still loopy. Nerve block still blocking the pain that is expected once it wears off (any time now) Thanks so much for your love and support!', 'score': 'Polite', 'id': u'3', 'value': {'polite': 0.68388117897522038, 'impolite': 0.31611882102477956}}	6576
+2015-02-26 16:27:05.664744	{'msg': 'Fine', 'txt': u"Well I'm (MW) all booked for \u202a#\u200echi2015\u202c ! So I can tweet at you all day. Are you booked? https://www.regonline.com/Register/Checkin.aspx\u2026 - Early bird deadline is 6th March!", 'score': 'Polite', 'id': u'4', 'value': {'polite': 0.77968097737253717, 'impolite': 0.22031902262746267}}	6576
+2015-02-26 16:27:06.099981	{'msg': 'Fine', 'txt': u'NOITAMINA(\uffe3\u25bd\uffe3)', 'score': 'Impolite', 'id': u'5', 'value': {'polite': 0.39275362038581796, 'impolite': 0.60724637961418215}}	6576
+2015-02-26 16:27:18.071230	{'msg': 'Fine', 'txt': u'Love seeing these faces after I come back from work \u202a#\u200eworkingmama\u202c \u202a#\u200ebeautifulbabies\u202c \u202a#\u200eeloraandirena\u202c \u202a#\u200ebabiesinnighties\u202c', 'score': 'Neutral', 'id': u'6', 'value': {'polite': 0.46594209940292786, 'impolite': 0.53405790059707214}}	6576
+2015-02-26 16:27:18.595910	{'msg': 'Fine', 'txt': u'A new sweater for those who are just a little different.', 'score': 'Neutral', 'id': u'7', 'value': {'polite': 0.52230042908748142, 'impolite': 0.47769957091251852}}	6576
+2015-02-26 16:27:19.055805	{'msg': 'Fine', 'txt': u'Banana Republic now sells clothes for babies. I am officially in heaven.', 'score': 'Neutral', 'id': u'8', 'value': {'polite': 0.40175505569535458, 'impolite': 0.59824494430464537}}	6576
+2015-02-26 16:27:22.923251	{'msg': 'Fine', 'txt': u"On the theme of paying someone to do your crafts, I'm hoping for some suggestions on where to get a custom designed/painted piece of china. Specifically, I want to give my friends a gravy boat as an engagement gift (which they know about), but I want to make it very unique to them and have it painted so that there is a picture of Pope Francis on one side and a picture of either Abraham Lincoln or Teddy Roosevelt on the other (yes, this is something that would make them very happy).\nAnyone know of someone who might be up for this task? Or is someone here very talented at painting gravy boats? I'm on a grad student budget, but I would be willing to pay for this highly unique item.", 'score': 'Neutral', 'id': u'9', 'value': {'polite': 0.64256122675066041, 'impolite': 0.35743877324933954}}	6576
+2015-02-26 16:27:23.723343	{'msg': 'Fine', 'txt': u'Up. Still loopy. Nerve block still blocking the pain that is expected once it wears off (any time now) Thanks so much for your love and support!', 'score': 'Polite', 'id': u'10', 'value': {'polite': 0.68388117897522038, 'impolite': 0.31611882102477956}}	6576
+2015-02-26 16:28:46.536125	{'msg': 'Fine', 'txt': u"Well I'm (MW) all booked for \u202a#\u200echi2015\u202c ! So I can tweet at you all day. Are you booked? https://www.regonline.com/Register/Checkin.aspx\u2026 - Early bird deadline is 6th March!", 'score': 'Polite', 'id': u'11', 'value': {'polite': 0.77968097737253717, 'impolite': 0.22031902262746267}}	6576
+2015-02-26 16:28:46.863002	{'msg': 'Fine', 'txt': u'\u202a#\u200eVotaJohnny\u202c', 'score': 'Impolite', 'id': u'12', 'value': {'polite': 0.31097986680788198, 'impolite': 0.68902013319211808}}	6576
+2015-02-26 16:28:47.568231	{'msg': 'Fine', 'txt': u"Tried the tea bags over my eyes to reduce puffiness trick on Monday. Didn't work, but at least I can knock a wife's tale off my list!", 'score': 'Neutral', 'id': u'13', 'value': {'polite': 0.44611046634012325, 'impolite': 0.5538895336598767}}	6576
+2015-02-26 16:28:48.818365	{'msg': 'Fine', 'txt': u"Opp for Bay Area high school girls! smile emoticon Please share!\nThe Society of Women Engineers at SJSU is hosting an outreach event called WOW! That's Engineering that exposes high school girls to the different disciplines of engineering. It's a FANTASTIC event for those wanting to learn more about engineering prior to entering college. We have brand new workshops this year - Robotics, Bristlebots, Pumps ", 'score': 'Polite', 'id': u'14', 'value': {'polite': 0.83546593073477537, 'impolite': 0.16453406926522468}}	6576
+2015-02-26 16:28:49.433502	{'msg': 'Fine', 'txt': u'SETLIST - Feb 25 - Doornroosje - Nijmegen, NL\nThe Singer Addresses His Audience\nCavalry Captain\nCalamity Song...\nSee More\n', 'score': 'Impolite', 'id': u'15', 'value': {'polite': 0.30201150042691399, 'impolite': 0.69798849957308617}}	6576
+2015-02-26 16:28:50.153755	{'msg': 'Fine', 'txt': u'Instantly deploy and get a Linode Cloud Server up and running in seconds with your choice of Linux distro, resources, and node location.', 'score': 'Neutral', 'id': u'16', 'value': {'polite': 0.4700403948692447, 'impolite': 0.52995960513075535}}	6576
+2015-02-26 16:28:50.680459	{'msg': 'Fine', 'txt': u'Harried public transit vs. savage social media. Kari Watkins (Civil and Environmental Engineering) weighs in.\nhttp://www.citylab.com/\u2026/how-public-transit-agencie\u2026/385373/', 'score': 'Impolite', 'id': u'17', 'value': {'polite': 0.32757149242450623, 'impolite': 0.67242850757549399}}	6576
+2015-02-26 16:28:51.216436	{'msg': 'Fine', 'txt': u"Can't wait to meet with some great minds and then spend some quality time with my husband. - Jonathan", 'score': 'Impolite', 'id': u'18', 'value': {'polite': 0.33813890085215753, 'impolite': 0.66186109914784241}}	6576
+2015-02-26 16:29:17.679794	{'msg': 'Fine', 'txt': u'Hey, Congress...if this issue "needs bipartisan support," don\'t you think the rest of the issues that need to be solved (i.e. immigration, homeland security, equality for EVERYONE, et cetera) need that too? Any bill or regulation that is going to benefit the nation needs bipartisan support. But, good work, Congress. You\'re making progress. One small step at a time.\nhttp://www.nytimes.com/\u2026/path-clears-for-net-neutrality-ahe\u2026', 'score': 'Impolite', 'id': u'19', 'value': {'polite': 0.2977835443352731, 'impolite': 0.70221645566472723}}	6576
+2015-02-26 16:29:18.047480	{'msg': 'Fine', 'txt': u'Excellent! Pour les fans de DBZ', 'score': 'Neutral', 'id': u'20', 'value': {'polite': 0.4082954889613461, 'impolite': 0.59170451103865396}}	6576
+2015-02-26 16:29:18.676313	{'msg': 'Fine', 'txt': u'Jazz musicians from around the world will gather April 30th in Paris as the capital was named the host for International Jazz Day 2015!\n\nhttp://www.ajc.com/\u2026/paris-named-host-city-for-inter\u2026/nkJMy/', 'score': 'Impolite', 'id': u'21', 'value': {'polite': 0.33352453644829361, 'impolite': 0.6664754635517065}}	6576
+2015-02-26 16:29:19.130757	{'msg': 'Fine', 'txt': u'Best turning radius ever.', 'score': 'Impolite', 'id': u'22', 'value': {'polite': 0.39266962793683308, 'impolite': 0.60733037206316687}}	6576
+2015-02-26 16:29:19.598833	{'msg': 'Fine', 'txt': u'Macy\u2019s Wedding Shop: with you until the champagne toast. Register and shop for your big day now!', 'score': 'Neutral', 'id': u'23', 'value': {'polite': 0.55966697960003342, 'impolite': 0.44033302039996663}}	6576
+2015-02-26 16:29:20.140282	{'msg': 'Fine', 'txt': u'TBT My first directing gig, while still at NYU, with Tom Houghton Asc for The Great Space Coaster. This is for you Tom!', 'score': 'Neutral', 'id': u'24', 'value': {'polite': 0.60470718316014538, 'impolite': 0.39529281683985479}}	6576
+2015-02-26 16:29:20.788532	{'msg': 'Fine', 'txt': u'Snorkeling under ice in Michigan and taking a selfie with a selfie stick. Sharing for my research friends who need material for presentations. smile emoticon', 'score': 'Impolite', 'id': u'25', 'value': {'polite': 0.34876171669392603, 'impolite': 0.65123828330607392}}	6576
+2015-02-26 16:30:22.873898	{'msg': 'Fine', 'txt': u'My roommate and I made orange-apricot tartlets. They were labor-intensive, but delicious. We left some of the white rind on the orange pieces, so they were a little bitter, unfortunately.', 'score': 'Neutral', 'id': u'26', 'value': {'polite': 0.56811988937928026, 'impolite': 0.43188011062071974}}	6576
+2015-02-26 16:30:24.565049	{'msg': 'Fine', 'txt': u'Love seeing these faces after I come back from work \u202a#\u200eworkingmama\u202c \u202a#\u200ebeautifulbabies\u202c \u202a#\u200eeloraandirena\u202c \u202a#\u200ebabiesinnighties\u202c', 'score': 'Neutral', 'id': u'27', 'value': {'polite': 0.46594209940292786, 'impolite': 0.53405790059707214}}	6576
+2015-02-26 16:30:25.160949	{'msg': 'Fine', 'txt': u'A new sweater for those who are just a little different.', 'score': 'Neutral', 'id': u'28', 'value': {'polite': 0.52230042908748142, 'impolite': 0.47769957091251852}}	6576
+2015-02-26 16:30:25.960853	{'msg': 'Fine', 'txt': u'Banana Republic now sells clothes for babies. I am officially in heaven.', 'score': 'Neutral', 'id': u'29', 'value': {'polite': 0.40175505569535458, 'impolite': 0.59824494430464537}}	6576
+2015-02-26 16:30:32.115158	{'msg': 'Fine', 'txt': u"On the theme of paying someone to do your crafts, I'm hoping for some suggestions on where to get a custom designed/painted piece of china. Specifically, I want to give my friends a gravy boat as an engagement gift (which they know about), but I want to make it very unique to them and have it painted so that there is a picture of Pope Francis on one side and a picture of either Abraham Lincoln or Teddy Roosevelt on the other (yes, this is something that would make them very happy).\nAnyone know of someone who might be up for this task? Or is someone here very talented at painting gravy boats? I'm on a grad student budget, but I would be willing to pay for this highly unique item.", 'score': 'Neutral', 'id': u'30', 'value': {'polite': 0.64256122675066041, 'impolite': 0.35743877324933954}}	6576
+2015-02-26 16:30:32.912336	{'msg': 'Fine', 'txt': u'Up. Still loopy. Nerve block still blocking the pain that is expected once it wears off (any time now) Thanks so much for your love and support!', 'score': 'Polite', 'id': u'31', 'value': {'polite': 0.68388117897522038, 'impolite': 0.31611882102477956}}	6576
+2015-02-26 16:40:20.990159	{'msg': 'Fine', 'txt': u'Banana Republic now sells clothes for babies. I am officially in heaven.', 'score': 'Neutral', 'id': u'12', 'value': {'polite': 0.40175505569535458, 'impolite': 0.59824494430464537}}	6576
+2015-02-26 16:40:28.585762	{'msg': 'Fine', 'txt': u"On the theme of paying someone to do your crafts, I'm hoping for some suggestions on where to get a custom designed/painted piece of china. Specifically, I want to give my friends a gravy boat as an engagement gift (which they know about), but I want to make it very unique to them and have it painted so that there is a picture of Pope Francis on one side and a picture of either Abraham Lincoln or Teddy Roosevelt on the other (yes, this is something that would make them very happy).\nAnyone know of someone who might be up for this task? Or is someone here very talented at painting gravy boats? I'm on a grad student budget, but I would be willing to pay for this highly unique item.", 'score': 'Neutral', 'id': u'13', 'value': {'polite': 0.64256122675066041, 'impolite': 0.35743877324933954}}	6576
+2015-02-26 16:40:29.148466	{'msg': 'Fine', 'txt': u"Well I'm (MW) all booked for \u202a#\u200echi2015\u202c ! So I can tweet at you all day. Are you booked? https://www.regonline.com/Register/Checkin.aspx\u2026 - Early bird deadline is 6th March!", 'score': 'Polite', 'id': u'15', 'value': {'polite': 0.77968097737253717, 'impolite': 0.22031902262746267}}	6576
+2015-02-26 16:40:31.319811	{'msg': 'Fine', 'txt': u'Hey, Congress...if this issue "needs bipartisan support," don\'t you think the rest of the issues that need to be solved (i.e. immigration, homeland security, equality for EVERYONE, et cetera) need that too? Any bill or regulation that is going to benefit the nation needs bipartisan support. But, good work, Congress. You\'re making progress. One small step at a time.\nhttp://www.nytimes.com/\u2026/path-clears-for-net-neutrality-ahe\u2026', 'score': 'Impolite', 'id': u'18', 'value': {'polite': 0.2977835443352731, 'impolite': 0.70221645566472723}}	6576
+2015-02-26 16:49:50.431546	{'msg': 'Fine', 'score': 'Neutral', 'id': u'0', 'value': {'polite': 0.3173028196907231, 'impolite': 0.68269718030927695}}	
+2015-02-26 16:49:52.290015	{'msg': 'Fine', 'score': 'Neutral', 'id': u'2', 'value': {'polite': 0.52039102114861713, 'impolite': 0.47960897885138298}}	
+2015-02-26 16:49:52.561740	{'msg': 'Fine', 'score': 'Neutral', 'id': u'5', 'value': {'polite': 0.44528119468514532, 'impolite': 0.55471880531485473}}	
+2015-02-26 16:49:52.833640	{'msg': 'Fine', 'score': 'Neutral', 'id': u'6', 'value': {'polite': 0.42365766485172041, 'impolite': 0.57634233514827948}}	
+2015-02-26 16:49:53.100509	{'msg': 'Fine', 'score': 'Neutral', 'id': u'9', 'value': {'polite': 0.35407531255597396, 'impolite': 0.64592468744402609}}	
+2015-02-26 16:49:54.456533	{'msg': 'Fine', 'score': 'Neutral', 'id': u'11', 'value': {'polite': 0.29015395495553953, 'impolite': 0.70984604504446047}}	
+2015-02-26 16:51:07.904841	{'msg': 'Fine', 'txt': u"One of me best friends is getting married in norcal at the end of may. This is her dress (below). She wants me to wear something in purple or raspberry. Because her dress is vintage I want something that kinda goes along with that theme. It'll prob be in the 60's (temp wise) while I'm there.\nAny suggestions? Thanks!", 'score': 'Polite', 'id': u'19', 'value': {'polite': 0.93822132145350345, 'impolite': 0.061778678546496421}}	6576
+2015-02-26 16:51:08.484748	{'msg': 'Fine', 'txt': u'Saving energy is a beautiful thing. Sign up with Infinite Energy and get a Nest Learning Thermostat at no cost.', 'score': 'Impolite', 'id': u'21', 'value': {'polite': 0.29415691967315671, 'impolite': 0.7058430803268434}}	6576
+2015-02-26 16:51:08.777135	{'msg': 'Fine', 'txt': u'good morning! @ Squaw Valley, Lake Tahoe https://t.co/nSlJePM9Sf', 'score': 'Neutral', 'id': u'23', 'value': {'polite': 0.50543027960874698, 'impolite': 0.49456972039125296}}	6576
+2015-02-26 17:10:36.097495	{'msg': 'Fine', 'score': 'Polite', 'id': u'0', 'value': {'polite': 0.90824556452102134, 'impolite': 0.091754435478978533}}	
+2015-02-26 17:10:36.382358	{'msg': 'Fine', 'score': 'Neutral', 'id': u'5', 'value': {'polite': 0.31097986680788198, 'impolite': 0.68902013319211808}}	
+2015-02-26 17:10:36.643593	{'msg': 'Fine', 'score': 'Neutral', 'id': u'8', 'value': {'polite': 0.27152107369592132, 'impolite': 0.72847892630407851}}	
+2015-02-26 17:10:37.038260	{'msg': 'Fine', 'score': 'Neutral', 'id': u'13', 'value': {'polite': 0.32014449841692988, 'impolite': 0.67985550158307007}}	
+2015-02-26 17:13:39.264742	{'msg': 'Fine', 'score': 'Neutral', 'id': u'14', 'value': {'polite': 0.31097986680788198, 'impolite': 0.68902013319211808}}	
+2015-02-26 17:13:40.032653	{'msg': 'Fine', 'score': 'Neutral', 'id': u'18', 'value': {'polite': 0.44691791177428258, 'impolite': 0.55308208822571736}}	
+2015-02-26 17:13:40.397984	{'msg': 'Fine', 'score': 'Neutral', 'id': u'21', 'value': {'polite': 0.39594436503500835, 'impolite': 0.60405563496499148}}	
+2015-02-26 17:13:46.432947	{'msg': 'Fine', 'score': 'Neutral', 'id': u'26', 'value': {'polite': 0.34548717136917839, 'impolite': 0.6545128286308215}}	
+2015-02-26 17:13:46.680883	{'msg': 'Fine', 'score': 'Neutral', 'id': u'28', 'value': {'polite': 0.45472759337058449, 'impolite': 0.54527240662941556}}	
+2015-02-26 17:13:46.981257	{'msg': 'Fine', 'score': 'Neutral', 'id': u'32', 'value': {'polite': 0.4506818427171585, 'impolite': 0.54931815728284139}}	
+2015-02-26 17:13:59.488962	{'msg': 'Fine', 'score': 'Neutral', 'id': u'33', 'value': {'polite': 0.26632808735174812, 'impolite': 0.73367191264825193}}	
+2015-02-26 17:13:59.712813	{'msg': 'Fine', 'score': 'Neutral', 'id': u'37', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 17:14:00.171426	{'msg': 'Fine', 'score': 'Impolite', 'id': u'38', 'value': {'polite': 0.072936322844702209, 'impolite': 0.92706367715529781}}	
+2015-02-26 17:14:00.967938	{'msg': 'Fine', 'score': 'Neutral', 'id': u'39', 'value': {'polite': 0.64663243852008334, 'impolite': 0.35336756147991677}}	
+2015-02-26 17:14:27.032010	{'msg': 'Fine', 'score': 'Neutral', 'id': u'42', 'value': {'polite': 0.38727725013713021, 'impolite': 0.61272274986287001}}	
+2015-02-26 17:14:27.278362	{'msg': 'Fine', 'score': 'Neutral', 'id': u'46', 'value': {'polite': 0.36934911159418155, 'impolite': 0.6306508884058184}}	
+2015-02-26 17:14:50.738341	{'msg': 'Fine', 'score': 'Neutral', 'id': u'50', 'value': {'polite': 0.26939102671460813, 'impolite': 0.73060897328539187}}	
+2015-02-26 17:14:50.982314	{'msg': 'Fine', 'score': 'Neutral', 'id': u'54', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 17:14:51.709041	{'msg': 'Fine', 'score': 'Polite', 'id': u'59', 'value': {'polite': 0.67384339130089144, 'impolite': 0.32615660869910862}}	
+2015-02-26 17:14:51.987731	{'msg': 'Fine', 'score': 'Neutral', 'id': u'61', 'value': {'polite': 0.49162341400784426, 'impolite': 0.50837658599215574}}	
+2015-02-26 17:15:19.112798	{'msg': 'Fine', 'score': 'Neutral', 'id': u'63', 'value': {'polite': 0.25556167238894617, 'impolite': 0.74443832761105388}}	
+2015-02-26 17:15:23.787751	{'msg': 'Fine', 'score': 'Neutral', 'id': u'67', 'value': {'polite': 0.31097986680788198, 'impolite': 0.68902013319211808}}	
+2015-02-26 17:15:24.230851	{'msg': 'Fine', 'score': 'Neutral', 'id': u'69', 'value': {'polite': 0.20705832148134579, 'impolite': 0.79294167851865416}}	
+2015-02-26 17:16:59.350112	{'msg': 'Fine', 'score': 'Neutral', 'id': u'75', 'value': {'polite': 0.30838700268835434, 'impolite': 0.69161299731164561}}	
+2015-02-26 17:16:59.801488	{'msg': 'Fine', 'score': 'Neutral', 'id': u'79', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 17:17:00.051918	{'msg': 'Fine', 'score': 'Neutral', 'id': u'82', 'value': {'polite': 0.27226078383578067, 'impolite': 0.72773921616421922}}	
+2015-02-26 17:20:22.047091	{'msg': 'Fine', 'score': 'Neutral', 'id': u'113', 'value': {'polite': 0.22640485331324289, 'impolite': 0.77359514668675722}}	
+2015-02-26 17:20:22.389644	{'msg': 'Fine', 'score': 'Neutral', 'id': u'116', 'value': {'polite': 0.28881324734066283, 'impolite': 0.71118675265933717}}	
+2015-02-26 17:20:23.347950	{'msg': 'Fine', 'score': 'Neutral', 'id': u'118', 'value': {'polite': 0.34039896336662656, 'impolite': 0.65960103663337344}}	
+2015-02-26 17:20:23.604535	{'msg': 'Fine', 'score': 'Neutral', 'id': u'122', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 17:20:24.384861	{'msg': 'Fine', 'score': 'Neutral', 'id': u'125', 'value': {'polite': 0.32014449841692988, 'impolite': 0.67985550158307007}}	
+2015-02-26 17:20:26.135740	{'msg': 'Fine', 'score': 'Neutral', 'id': u'127', 'value': {'polite': 0.29548309895553654, 'impolite': 0.70451690104446363}}	
+2015-02-26 17:20:26.620524	{'msg': 'Fine', 'score': 'Neutral', 'id': u'131', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 17:20:26.894025	{'msg': 'Fine', 'score': 'Neutral', 'id': u'134', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 17:20:27.359819	{'msg': 'Fine', 'score': 'Neutral', 'id': u'138', 'value': {'polite': 0.31100662635316245, 'impolite': 0.68899337364683744}}	
+2015-02-26 17:20:27.698913	{'msg': 'Fine', 'score': 'Neutral', 'id': u'141', 'value': {'polite': 0.2211910782008232, 'impolite': 0.7788089217991766}}	
+2015-02-26 17:20:28.553060	{'msg': 'Fine', 'score': 'Neutral', 'id': u'144', 'value': {'polite': 0.5, 'impolite': 0.5}}	
+2015-02-26 17:26:29.133716	{'msg': 'Fine', 'score': 'Neutral', 'id': u'146', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 17:26:30.737589	{'msg': 'Fine', 'score': 'Neutral', 'id': u'149', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 17:26:36.657860	{'msg': 'Fine', 'score': 'Neutral', 'id': u'152', 'value': {'polite': 0.37203179210257231, 'impolite': 0.6279682078974278}}	
+2015-02-26 17:26:37.136026	{'msg': 'Fine', 'score': 'Neutral', 'id': u'154', 'value': {'polite': 0.37391193721750965, 'impolite': 0.62608806278249041}}	
+2015-02-26 17:27:00.561212	{'msg': 'Fine', 'score': 'Neutral', 'id': u'156', 'value': {'polite': 0.48510162368108939, 'impolite': 0.51489837631891044}}	
+2015-02-26 17:27:00.867208	{'msg': 'Fine', 'score': 'Neutral', 'id': u'158', 'value': {'polite': 0.23739449440817431, 'impolite': 0.76260550559182572}}	
+2015-02-26 17:27:01.516403	{'msg': 'Fine', 'score': 'Neutral', 'id': u'159', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 17:27:04.554774	{'msg': 'Fine', 'score': 'Neutral', 'id': u'167', 'value': {'polite': 0.37677009048812937, 'impolite': 0.62322990951187063}}	
+2015-02-26 17:27:04.955914	{'msg': 'Fine', 'score': 'Neutral', 'id': u'173', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 17:27:05.904945	{'msg': 'Fine', 'score': 'Neutral', 'id': u'170', 'value': {'polite': 0.47067488149547748, 'impolite': 0.52932511850452246}}	
+2015-02-26 17:32:23.823580	{'msg': 'Fine', 'score': 'Neutral', 'id': u'174', 'value': {'polite': 0.39393165857812135, 'impolite': 0.60606834142187871}}	
+2015-02-26 17:32:24.206676	{'msg': 'Fine', 'score': 'Neutral', 'id': u'176', 'value': {'polite': 0.24678660293032201, 'impolite': 0.75321339706967794}}	
+2015-02-26 17:32:25.080531	{'msg': 'Fine', 'score': 'Neutral', 'id': u'178', 'value': {'polite': 0.33132549313985182, 'impolite': 0.6686745068601484}}	
+2015-02-26 17:32:25.592512	{'msg': 'Fine', 'score': 'Neutral', 'id': u'181', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 17:32:27.239206	{'msg': 'Fine', 'score': 'Neutral', 'id': u'183', 'value': {'polite': 0.4082954889613461, 'impolite': 0.59170451103865396}}	
+2015-02-26 17:32:27.839173	{'msg': 'Fine', 'score': 'Neutral', 'id': u'184', 'value': {'polite': 0.31097986680788198, 'impolite': 0.68902013319211808}}	
+2015-02-26 17:32:28.178773	{'msg': 'Fine', 'score': 'Neutral', 'id': u'188', 'value': {'polite': 0.4333411736393149, 'impolite': 0.56665882636068521}}	
+2015-02-26 17:32:28.661239	{'msg': 'Fine', 'score': 'Neutral', 'id': u'190', 'value': {'polite': 0.25542425417176151, 'impolite': 0.74457574582823871}}	
+2015-02-26 17:32:35.253718	{'msg': 'Fine', 'score': 'Impolite', 'id': u'191', 'value': {'polite': 0.19595947066664782, 'impolite': 0.80404052933335246}}	
+2015-02-26 17:32:35.777456	{'msg': 'Fine', 'score': 'Neutral', 'id': u'193', 'value': {'polite': 0.36780949494446791, 'impolite': 0.63219050505553209}}	
+2015-02-26 17:32:36.295629	{'msg': 'Fine', 'score': 'Neutral', 'id': u'199', 'value': {'polite': 0.43524883450146573, 'impolite': 0.56475116549853421}}	
+2015-02-26 17:32:41.845200	{'msg': 'Fine', 'score': 'Impolite', 'id': u'201', 'value': {'polite': 0.1901529016927869, 'impolite': 0.80984709830721335}}	
+2015-02-26 17:32:42.062186	{'msg': 'Fine', 'score': 'Neutral', 'id': u'204', 'value': {'polite': 0.30681352693031672, 'impolite': 0.69318647306968306}}	
+2015-02-26 17:32:42.658840	{'msg': 'Fine', 'score': 'Neutral', 'id': u'205', 'value': {'polite': 0.61892561051740136, 'impolite': 0.38107438948259853}}	
+2015-02-26 17:32:42.918024	{'msg': 'Fine', 'score': 'Neutral', 'id': u'208', 'value': {'polite': 0.42675834643742855, 'impolite': 0.57324165356257151}}	
+2015-02-26 17:32:48.787149	{'msg': 'Fine', 'score': 'Neutral', 'id': u'216', 'value': {'polite': 0.47866464136028009, 'impolite': 0.52133535863971991}}	
+2015-02-26 17:32:49.047215	{'msg': 'Fine', 'score': 'Neutral', 'id': u'219', 'value': {'polite': 0.31159445543903369, 'impolite': 0.68840554456096636}}	

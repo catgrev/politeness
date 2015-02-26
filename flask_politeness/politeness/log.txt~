@@ -1,0 +1,2 @@
+
+{'text': u'test this!', 'parses': [[[u'root', u'ROOT', u'test'], [u'dep', u'test', u'this']]], 'sentences': [u'test this!']}{'text': u'test this!', 'parses': [[[u'root', u'ROOT', u'test'], [u'dep', u'test', u'this']]], 'unigrams': <itertools.chain object at 0x7fae38895d50>, 'sentences': [u'test this!']}{'polite': 0.40924292188769712, 'impolite': 0.59075707811230282}

@@ -1,4 +1,4 @@
 import sys
-sys.path.insert(0, '/var/www/flask_politeness')
+sys.path.insert(0, '/var/www/politeness/flask_politeness')
 
-from flask_politeness import flask_politeness as application
+from app import app as application

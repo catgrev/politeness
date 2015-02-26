@@ -1,0 +1,193 @@
+
+import sys, traceback
+import os
+import cPickle
+import jsonrpclib
+from jsonrpclib import MultiCall
+from SocketServer import ThreadingMixIn
+from jsonrpclib.SimpleJSONRPCServer import SimpleJSONRPCServer
+from simplejson import loads
+
+"""
+This file provides an interface to 
+a pre-trained politeness SVM. 
+"""
+
+#####
+# Ensure the proper python dependencies exist
+
+try:
+    import numpy as np
+except:
+    sys.stderr.write("Package not found: Politeness model requires python package numpy\n")
+    sys.exit(2)
+
+try:
+    import scipy
+    from scipy.sparse import csr_matrix
+except:
+    sys.stderr.write("Package not found: Politeness model requires python package scipy\n")
+    sys.exit(2)
+
+try:
+    import sklearn
+except:
+    sys.stderr.write("Package not found: Politeness model requires python package scikit-learn\n")
+    sys.exit(2)
+
+try:
+    import nltk
+except:
+    sys.stderr.write("Package not found: Politeness model requires python package nltk\n")
+    sys.exit(2)
+
+####
+# Check versions for sklearn, scipy, numpy, nltk
+# Don't error out, just notify
+
+packages2versions = [("scikit-learn", sklearn, "0.15.1"), ("numpy", np, "1.9.0"), ("nltk", nltk, "3.0.0"), ("scipy", scipy, "0.12.0")]
+
+for name, package, expected_v in packages2versions:
+    if package.__version__ < expected_v:
+        sys.stderr.write("Warning: package '%s', expected version >= %s, detected %s. Code functionality not guaranteed.\n" % (name, expected_v, package.__version__))
+
+
+####
+
+from features.vectorizer import PolitenessFeatureVectorizer
+
+
+####
+# Serialized model filename
+
+MODEL_FILENAME = os.path.join(os.path.split(__file__)[0], 'politeness-svm.p')
+
+####
+# Load model, initialize vectorizer
+
+clf = cPickle.load(open(MODEL_FILENAME))
+vectorizer = PolitenessFeatureVectorizer()
+
+def score(request):
+    """
+    :param request - The request document to score
+    :type request - dict with 'sentences' and 'parses' field
+        sample (taken from test_documents.py)--
+        {
+            'sentences': [
+                "Have you found the answer for your question?", 
+                "If yes would you please share it?"
+            ],
+            'parses': [
+                ["csubj(found-3, Have-1)", "dobj(Have-1, you-2)", "root(ROOT-0, found-3)", "det(answer-5, the-4)", "dobj(found-3, answer-5)", "poss(question-8, your-7)", "prep_for(found-3, question-8)"], 
+                ["prep_if(would-3, yes-2)", "root(ROOT-0, would-3)", "nsubj(would-3, you-4)", "ccomp(would-3, please-5)", "nsubj(it-7, share-6)", "xcomp(please-5, it-7)"]
+            ]
+        } 
+
+    returns class probabilities as a dict
+        {
+            'polite': float, 
+            'impolite': float
+        }
+    """
+    try:
+        # vectorizer returns {feature-name: value} dict
+        features = vectorizer.features(request)
+        fv = [features[f] for f in sorted(features.iterkeys())]
+        # Single-row sparse matrix
+        X = csr_matrix(np.asarray([fv]))
+        probs = clf.predict_proba(X)
+        # Massage return format
+        probs = {"polite": probs[0][1], "impolite": probs[0][0]}
+        
+        f = open(os.path.join(os.path.split(__file__)[0],'log.txt'), 'a+')
+        f.write(str(request))
+        f.write(str(probs)+"\n")
+        f.close()
+
+        return probs
+    
+    except:
+        print "Oops, the score function itself crashed"
+        #sys.stderr.write("Error with getting score \n")
+
+# Stanford NLP server to get dependencies
+server = jsonrpclib.Server("http://127.0.0.1:8080")
+#server = SimpleJSONRPCServer(('localhost', 8080))
+#server.serve_forever
+
+def get_score(text):
+    res = {}
+    ans = ""
+    #res['sentences'] = -1
+    
+    try:
+        #server.request()
+        #print jsonrpclib.history.request
+        if text:
+            response = server.parse(text)
+            res = loads(response)
+            #print jsonrpclib.history.request
+            #print jsonrpclib.history.response
+            #sys.stderr.write(check_for_errors(response))  
+            #except TypeError, e:
+            #    print "Type Error ", e.message
+    except Exception as inst:
+        #res = []
+        traceback.print_exc()
+        print type(inst), " ", inst.args, " ", jsonrpclib.history.request, " Oops, the get_score crashed ", sys.exc_info()[0]
+        #sys.stderr.write("1. Error with getting score \n")
+        #raise ValueError("Crashed at 1")
+
+    if len(res) > 0:
+        sentences = res['sentences']
+        #sentences = []
+
+    try:
+        req = {};
+        req['text'] = text;
+        req['parses'] = [];
+        req['sentences'] = [];
+    
+        for sen in sentences:
+            req['sentences'].append(sen['text']);
+            req['parses'].append(sen['dependencies']);
+
+    except:
+        print "ERROR ",sentences, " with error: ", sys.exc_info()[0]
+        #sys.stderr.write("2. Error with getting score \n") 
+        #raise ValueError("Crashed at 2")
+
+    try:
+        print req;
+        ans = score(req);
+    except:
+        print "Score didn't work ", sys.exc_info()[0]
+        #sys.stderr.write("3. Error with getting score \n") 
+        #raise ValueError("Crashed at 3")
+
+    return ans
+        
+    #except:
+        #sys.stderr.write("Error with getting score \n")
+
+
+if __name__ == "__main__":
+
+    """
+    Sample classification of requests
+    """
+
+    from test_documents import TEST_DOCUMENTS
+
+    for doc in TEST_DOCUMENTS:
+
+        probs = score(doc)
+
+        print "===================="
+        print "Text: ", doc['text']
+        print "\tP(polite) = %.3f" % probs['polite']
+        print "\tP(impolite) = %.3f" % probs['impolite']
+        print "\n"
+
+
